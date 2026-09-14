@@ -9,6 +9,7 @@ export type Post = {
   slug: string;
   title: string;
   date: string;
+  posted?: string;
   author: Author;
   dek: string;
   excerpt: string;
@@ -17,6 +18,20 @@ export type Post = {
   href: string;
   content: string;
 };
+
+function parseDay(value: unknown): string | undefined {
+  if (typeof value === "string" && /^\d{4}-\d{2}-\d{2}$/.test(value)) {
+    return value;
+  }
+  if (value instanceof Date) {
+    return value.toISOString().slice(0, 10);
+  }
+  return undefined;
+}
+
+function sortDay(post: Post): string {
+  return post.posted ?? post.date;
+}
 
 function firstParagraph(content: string): string {
   const block = content
@@ -34,15 +49,11 @@ function parsePost(filename: string): Post {
   if (typeof data.title !== "string") {
     throw new Error(`${filename}: title is required`);
   }
-  const date =
-    typeof data.date === "string"
-      ? data.date
-      : data.date instanceof Date
-        ? data.date.toISOString().slice(0, 10)
-        : "";
-  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) {
+  const date = parseDay(data.date);
+  if (!date) {
     throw new Error(`${filename}: date must be YYYY-MM-DD`);
   }
+  const posted = parseDay(data.posted);
   if (typeof data.author !== "string" || !isAuthor(data.author)) {
     throw new Error(`${filename}: author must be one of the three chairs`);
   }
@@ -65,6 +76,7 @@ function parsePost(filename: string): Post {
     slug,
     title: data.title,
     date,
+    posted,
     author: data.author,
     dek: data.dek,
     excerpt,
@@ -101,7 +113,12 @@ function listPostFiles(): string[] {
 export function getAllPosts(): Post[] {
   return listPostFiles()
     .map(parsePost)
-    .sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title));
+    .sort(
+      (a, b) =>
+        sortDay(b).localeCompare(sortDay(a)) ||
+        b.date.localeCompare(a.date) ||
+        a.title.localeCompare(b.title),
+    );
 }
 
 export function getPostsByAuthor(author: Author): Post[] {

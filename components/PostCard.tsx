@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { chairFor } from "@/lib/authors";
-import { formatDate, type Post } from "@/lib/posts";
+import { DateLine } from "@/components/DateLine";
+import { type Post } from "@/lib/posts";
 
 export function PostCard({ post }: { post: Post }) {
   const chair = chairFor(post.author);
@@ -8,7 +9,7 @@ export function PostCard({ post }: { post: Post }) {
 
   return (
     <article className="border-b border-ink/15 py-8 first:pt-0">
-      <p className="font-sans text-sm text-ink/70">{formatDate(post.date)}</p>
+      <DateLine post={post} />
       <h2 className="mt-2 font-serif text-2xl leading-snug text-ink">
         <Link href={post.href} className="underline-offset-4 hover:underline">
           {post.title}

@@ -4,7 +4,8 @@ import { MDXRemote } from "next-mdx-remote/rsc";
 import Image from "next/image";
 import Link from "next/link";
 import { chairFor } from "@/lib/authors";
-import { formatDate, getAllPosts, getPostBySlug } from "@/lib/posts";
+import { DateLine } from "@/components/DateLine";
+import { getAllPosts, getPostBySlug } from "@/lib/posts";
 
 type PageProps = {
   params: Promise<{ slug: string }>;
@@ -42,7 +43,7 @@ export default async function PostPage({ params }: PageProps) {
 
   return (
     <article>
-      <p className="font-sans text-sm text-ink/70">{formatDate(post.date)}</p>
+      <DateLine post={post} />
       <h1 className="mt-3 font-serif text-3xl leading-snug text-ink">
         {post.title}
       </h1>
