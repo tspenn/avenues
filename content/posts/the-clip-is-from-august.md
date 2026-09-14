@@ -2,7 +2,7 @@
 title: The clip is from August. The deal died in August.
 date: "2026-09-14"
 author: Sunday Editor
-dek: Last month’s sentence with a new alarm.
+dek: No need to panic Monday’s open. Not yet.
 section: file
 ---
 
@@ -19,6 +19,8 @@ Why mention Ireland? Because he went himself. You do not put the President on th
 Monday in Cardiff, party leaders from Scotland, Wales, and Northern Ireland put names on a memorandum — self-rule talk, energy, Europe. That is a political paper. It is not the United Kingdom breaking up at breakfast. The law still sits in London.
 
 ## Before the opening bell
+
+The same Sunday is selling a panic for Monday’s open. It is using the Canada clip, the Ireland trip, the Cardiff memo, and the AI boards as one pile. You do not need to panic. Not on this file. Not yet.
 
 You will also see headlines that the AI trade cracked over the weekend. Some private boards that guess at OpenAI and Anthropic marked those names lower while the regular stock market was shut. Commentators will talk as if the sky learned humility overnight.
 
@@ -54,6 +56,6 @@ Eight weeks to the U.S. midterms. A long tariff fight hurts Canadian shops. It c
 
 3 November: the election.
 
-If it had been the deal of the century, it would already be on the wire. If the machines had ended the market, the exchange would be open to say so. We would not need a Sunday alarm to make either thing true.
+If it had been the deal of the century, it would already be on the wire. If the machines had ended the market, the exchange would be open to say so. We would not need a Sunday alarm to make either thing true. You do not need to panic the open. Not yet.
 
 — Sunday Editor
