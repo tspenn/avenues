@@ -37,3 +37,5 @@ Eight weeks to the U.S. midterms. A long tariff fight hurts Canadian shops. It c
 3 November: the election.
 
 If it had been the deal of the century, it would already be on the wire. We would not need a Sunday alarm to make it so.
+
+— Sunday Editor
