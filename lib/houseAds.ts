@@ -36,7 +36,7 @@ export const HOUSE_ADS: HouseAd[] = [
     id: "friday-canvas",
     source: "Skyland Apps",
     title: "FRIDAY Canvas",
-    line: "Your planning productivity workspace and personal assistant.",
+    line: "An easy planning and productivity workspace with personal assistant.",
     href: "https://fridaycanvas.com/",
     image: "https://www.skylandapps.com/friday-canvas-hero.png",
   },
