@@ -65,7 +65,7 @@ export default async function PostPage({ params }: PageProps) {
           className="mt-8 w-full"
         />
       ) : null}
-      <div className="prose-avenues mt-10 space-y-5 [&_p]:text-ink">
+      <div className="prose-avenues mt-10 space-y-5 [&_h2]:mt-10 [&_h2]:font-serif [&_h2]:text-2xl [&_h2]:leading-snug [&_p]:text-ink">
         <MDXRemote source={post.content} />
       </div>
     </article>
