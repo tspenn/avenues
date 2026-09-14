@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { notFound } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 import { MDXRemote } from "next-mdx-remote/rsc";
 import Image from "next/image";
 import Link from "next/link";
@@ -34,6 +34,10 @@ export default async function PostPage({ params }: PageProps) {
 
   if (!post) {
     notFound();
+  }
+
+  if (post.href !== `/posts/${post.slug}`) {
+    redirect(post.href);
   }
 
   return (

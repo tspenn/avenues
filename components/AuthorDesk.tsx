@@ -12,6 +12,7 @@ export function AuthorDesk({
   return (
     <div>
       <h1 className="font-serif text-3xl text-ink">{chair.name}</h1>
+      {chair.note ? <p className="mt-3 text-ink">{chair.note}</p> : null}
       {posts.length === 0 ? (
         <p className="mt-8">{chair.empty}</p>
       ) : (

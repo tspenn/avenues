@@ -10,8 +10,8 @@ export type Section = "file" | "essay" | "longform";
 
 export type Chair = {
   name: Author;
-  slug: "file" | "horrow" | "boone";
-  href: "/file" | "/horrow" | "/boone";
+  slug: "file" | "horrow" | "whit-boone";
+  href: "/file" | "/horrow" | "/writers/whit-boone";
   empty: string;
   note: string;
 };
@@ -33,10 +33,10 @@ export const CHAIRS: Record<Author, Chair> = {
   },
   "Whit Boone": {
     name: "Whit Boone",
-    slug: "boone",
-    href: "/boone",
+    slug: "whit-boone",
+    href: "/writers/whit-boone",
     empty: "Longform forthcoming",
-    note: "Longform forthcoming",
+    note: "History. What resistance actually cost.",
   },
 };
 

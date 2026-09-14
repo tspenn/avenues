@@ -14,6 +14,7 @@ export type Post = {
   excerpt: string;
   section: Section;
   hero?: string;
+  href: string;
   content: string;
 };
 
@@ -69,7 +70,22 @@ function parsePost(filename: string): Post {
     excerpt,
     section: data.section,
     hero: typeof data.hero === "string" && data.hero.trim() ? data.hero.trim() : undefined,
+    href:
+      typeof data.href === "string" && data.href.trim()
+        ? data.href.trim()
+        : `/posts/${slug}`,
     content: content.trim(),
+  };
+}
+
+export function splitLongform(content: string): { partOne: string; partTwo: string } | null {
+  const parts = content.split("<!-- both-sides -->");
+  if (parts.length < 2) {
+    return null;
+  }
+  return {
+    partOne: parts[0].trim(),
+    partTwo: parts.slice(1).join("<!-- both-sides -->").trim(),
   };
 }
 

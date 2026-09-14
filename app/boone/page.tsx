@@ -1,17 +1,5 @@
-import type { Metadata } from "next";
-import { AuthorDesk } from "@/components/AuthorDesk";
-import { CHAIRS } from "@/lib/authors";
-import { getPostsByAuthor } from "@/lib/posts";
+import { redirect } from "next/navigation";
 
-export const metadata: Metadata = {
-  title: "Whit Boone",
-};
-
-export default function BoonePage() {
-  return (
-    <AuthorDesk
-      chair={CHAIRS["Whit Boone"]}
-      posts={getPostsByAuthor("Whit Boone")}
-    />
-  );
+export default function BooneRedirectPage() {
+  redirect("/writers/whit-boone");
 }
