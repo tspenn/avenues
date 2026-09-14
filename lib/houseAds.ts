@@ -12,8 +12,9 @@ export const HOUSE_ADS: HouseAd[] = [
     id: "go-news",
     source: "Skyland Apps",
     title: "Go News",
-    line: "A chronological feed. No algorithm.",
+    line: "Insights into all your world. Free.",
     href: "https://go-news.app/",
+    image: "/gonews.jpg",
   },
   {
     id: "go-shop",
