@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { MDXRemote } from "next-mdx-remote/rsc";
+import Link from "next/link";
+import { chairFor } from "@/lib/authors";
 import { formatDate, getAllPosts, getPostBySlug } from "@/lib/posts";
 
 type PageProps = {
@@ -39,7 +41,14 @@ export default async function PostPage({ params }: PageProps) {
       <h1 className="mt-3 font-serif text-3xl leading-snug text-ink">
         {post.title}
       </h1>
-      <p className="mt-4 font-serif italic text-ink">{post.author}</p>
+      <p className="mt-4 font-serif italic text-ink">
+        <Link
+          href={chairFor(post.author).href}
+          className="underline-offset-4 hover:underline"
+        >
+          {post.author}
+        </Link>
+      </p>
       <div className="prose-avenues mt-10 space-y-5 [&_p]:text-ink">
         <MDXRemote source={post.content} />
       </div>

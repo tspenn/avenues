@@ -1,9 +1,13 @@
 import { Chair } from "@/components/Chair";
 import { PostCard } from "@/components/PostCard";
-import { getAllPosts } from "@/lib/posts";
+import { CHAIRS } from "@/lib/authors";
+import { getAllPosts, getPostsByAuthor } from "@/lib/posts";
 
 export default function HomePage() {
   const posts = getAllPosts();
+  const forthcoming = (
+    ["Julian B. Horrow", "Whit Boone"] as const
+  ).filter((name) => getPostsByAuthor(name).length === 0);
 
   return (
     <div>
@@ -13,10 +17,18 @@ export default function HomePage() {
           <PostCard key={post.slug} post={post} />
         ))}
       </section>
-      <section aria-label="Forthcoming chairs" className="mt-4">
-        <Chair name="Julian B. Horrow" note="Essay forthcoming" />
-        <Chair name="Whit Boone" note="Longform forthcoming" />
-      </section>
+      {forthcoming.length > 0 ? (
+        <section aria-label="Forthcoming chairs" className="mt-4">
+          {forthcoming.map((name) => (
+            <Chair
+              key={name}
+              name={name}
+              href={CHAIRS[name].href}
+              note={CHAIRS[name].empty}
+            />
+          ))}
+        </section>
+      ) : null}
     </div>
   );
 }

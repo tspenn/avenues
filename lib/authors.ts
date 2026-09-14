@@ -8,6 +8,42 @@ export type Author = (typeof AUTHORS)[number];
 
 export type Section = "file" | "essay" | "longform";
 
+export type Chair = {
+  name: Author;
+  slug: "file" | "horrow" | "boone";
+  href: "/file" | "/horrow" | "/boone";
+  empty: string;
+  note: string;
+};
+
+export const CHAIRS: Record<Author, Chair> = {
+  "Sunday Editor": {
+    name: "Sunday Editor",
+    slug: "file",
+    href: "/file",
+    empty: "No file this week.",
+    note: "The clerk. Dates the clip. Names the file.",
+  },
+  "Julian B. Horrow": {
+    name: "Julian B. Horrow",
+    slug: "horrow",
+    href: "/horrow",
+    empty: "Essay forthcoming",
+    note: "Essay forthcoming",
+  },
+  "Whit Boone": {
+    name: "Whit Boone",
+    slug: "boone",
+    href: "/boone",
+    empty: "Longform forthcoming",
+    note: "Longform forthcoming",
+  },
+};
+
 export function isAuthor(value: string): value is Author {
   return (AUTHORS as readonly string[]).includes(value);
+}
+
+export function chairFor(author: Author): Chair {
+  return CHAIRS[author];
 }

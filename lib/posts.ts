@@ -11,9 +11,18 @@ export type Post = {
   date: string;
   author: Author;
   dek: string;
+  excerpt: string;
   section: Section;
   content: string;
 };
+
+function firstParagraph(content: string): string {
+  const block = content
+    .split(/\n\s*\n/)
+    .map((part) => part.replace(/\s+/g, " ").trim())
+    .find((part) => part.length > 0);
+  return block ?? "";
+}
 
 function parsePost(filename: string): Post {
   const slug = filename.replace(/\.mdx?$/, "");
@@ -38,6 +47,10 @@ function parsePost(filename: string): Post {
   if (typeof data.dek !== "string") {
     throw new Error(`${filename}: dek is required`);
   }
+  const excerpt =
+    typeof data.excerpt === "string" && data.excerpt.trim()
+      ? data.excerpt.trim()
+      : firstParagraph(content);
   if (
     data.section !== "file" &&
     data.section !== "essay" &&
@@ -52,6 +65,7 @@ function parsePost(filename: string): Post {
     date,
     author: data.author,
     dek: data.dek,
+    excerpt,
     section: data.section,
     content: content.trim(),
   };
@@ -72,8 +86,12 @@ export function getAllPosts(): Post[] {
     .sort((a, b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title));
 }
 
+export function getPostsByAuthor(author: Author): Post[] {
+  return getAllPosts().filter((post) => post.author === author);
+}
+
 export function getFilePosts(): Post[] {
-  return getAllPosts().filter((post) => post.author === "Sunday Editor");
+  return getPostsByAuthor("Sunday Editor");
 }
 
 export function getPostBySlug(slug: string): Post | null {
