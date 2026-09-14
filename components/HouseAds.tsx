@@ -14,6 +14,7 @@ export function HouseAds() {
             <a
               href={ad.href}
               className="group block text-ink"
+              target="_blank"
               rel="noopener noreferrer"
             >
               {ad.image ? (

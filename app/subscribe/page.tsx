@@ -20,6 +20,8 @@ export default function SubscribePage() {
           <a
             href={paymentLink}
             className="inline-block border border-ink bg-header px-4 py-2 font-sans text-sm text-accent"
+            target="_blank"
+            rel="noopener noreferrer"
           >
             Become a paid reader
           </a>
