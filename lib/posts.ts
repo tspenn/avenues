@@ -10,6 +10,8 @@ export type Post = {
   title: string;
   date: string;
   posted?: string;
+  dateLabel?: string;
+  postedLabel?: string;
   author: Author;
   dek: string;
   excerpt: string;
@@ -77,6 +79,14 @@ function parsePost(filename: string): Post {
     title: data.title,
     date,
     posted,
+    dateLabel:
+      typeof data.dateLabel === "string" && data.dateLabel.trim()
+        ? data.dateLabel.trim()
+        : undefined,
+    postedLabel:
+      typeof data.postedLabel === "string" && data.postedLabel.trim()
+        ? data.postedLabel.trim()
+        : undefined,
     author: data.author,
     dek: data.dek,
     excerpt,

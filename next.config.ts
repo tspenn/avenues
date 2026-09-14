@@ -13,6 +13,11 @@ const nextConfig: NextConfig = {
         destination: "/writers/whit-boone/resistance-and-its-cost",
         permanent: true,
       },
+      {
+        source: "/posts/the-oil-and-the-deputy",
+        destination: "/writers/whit-boone/the-oil-and-the-deputy",
+        permanent: true,
+      },
     ];
   },
 };
