@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Avenues">
+  <rect width="32" height="32" fill="#0E2A35"/>
+  <path
+    fill="#B8E0E6"
+    fill-rule="evenodd"
+    d="M16 5.2 26.8 26.8h-4.2l-1.7-4.2H11.1l-1.7 4.2H5.2L16 5.2Zm0 6.6 2.9 7.2h-5.8L16 11.8Z"
+  />
+</svg>
