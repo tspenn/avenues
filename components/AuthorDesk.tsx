@@ -18,7 +18,7 @@ export function AuthorDesk({
       ) : (
         <section aria-label={chair.name} className="mt-8">
           {posts.map((post) => (
-            <PostCard key={post.slug} post={post} />
+            <PostCard key={post.slug} post={post} showHero />
           ))}
         </section>
       )}

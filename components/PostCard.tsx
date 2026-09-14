@@ -1,9 +1,16 @@
+import Image from "next/image";
 import Link from "next/link";
 import { chairFor } from "@/lib/authors";
 import { DateLine } from "@/components/DateLine";
 import { type Post } from "@/lib/posts";
 
-export function PostCard({ post }: { post: Post }) {
+export function PostCard({
+  post,
+  showHero = false,
+}: {
+  post: Post;
+  showHero?: boolean;
+}) {
   const chair = chairFor(post.author);
   const teaser = post.section === "longform" ? post.dek : post.excerpt;
 
@@ -15,6 +22,17 @@ export function PostCard({ post }: { post: Post }) {
           {post.title}
         </Link>
       </h2>
+      {showHero && post.hero ? (
+        <Link href={post.href} className="mt-5 block">
+          <Image
+            src={post.hero}
+            alt={post.heroAlt ?? post.title}
+            width={1600}
+            height={1000}
+            className="w-full"
+          />
+        </Link>
+      ) : null}
       <p className="mt-3 text-ink">{teaser}</p>
       <p className="mt-5 font-serif italic text-ink">
         <Link href={chair.href} className="underline-offset-4 hover:underline">
