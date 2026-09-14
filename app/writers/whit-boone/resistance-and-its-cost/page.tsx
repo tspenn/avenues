@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 const articleClass =
   "prose-avenues mt-8 space-y-5 [&_h2]:mt-10 [&_h2]:font-serif [&_h2]:text-2xl [&_h2]:leading-snug [&_p]:text-ink";
 
-export default function ResistancePage() {
+export default async function ResistancePage() {
   const post = getPostBySlug("resistance-and-its-cost");
   if (!post || post.author !== "Whit Boone") {
     notFound();

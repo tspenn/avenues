@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     "A defendant on a plane and a concession on a desk. Those are different kinds of founding.",
 };
 
-export default function OilAndTheDeputyPage() {
+export default async function OilAndTheDeputyPage() {
   const post = getPostBySlug("the-oil-and-the-deputy");
   if (!post || post.author !== "Whit Boone") {
     notFound();
