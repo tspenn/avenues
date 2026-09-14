@@ -60,7 +60,7 @@ export const HOUSE_ADS: HouseAd[] = [
     id: "valencia",
     source: "Senses Marketplace",
     title: "Valencia / MonVie",
-    line: "Florals, citrus, vanilla.",
+    line: "All natural skincare in florals, citrus and vanilla.",
     href: "https://senses.fineshoppes.com/valencia",
     image:
       "https://senses.fineshoppes.com/__l5e/assets-v1/9da96b89-aa94-4d99-9b09-a21644b3e675/oranges-1995079_1280.jpg",
