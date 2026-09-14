@@ -14,7 +14,7 @@ export const HOUSE_ADS: HouseAd[] = [
     title: "Go News",
     line: "Insights into all your world. Free.",
     href: "https://go-news.app/",
-    image: "/gonews.jpg",
+    image: "/gonews-day.jpg",
   },
   {
     id: "go-shop",
