@@ -19,7 +19,7 @@ export function SiteHeader() {
             width={960}
             height={400}
             priority
-            className="h-12 w-auto sm:h-14"
+            className="h-20 w-auto sm:h-24"
           />
         </Link>
         <nav aria-label="Primary">
