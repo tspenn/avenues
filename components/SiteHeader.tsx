@@ -11,15 +11,15 @@ const nav = [
 export function SiteHeader() {
   return (
     <header className="bg-header text-accent">
-      <div className="mx-auto flex max-w-[65ch] flex-col gap-6 px-6 py-6 sm:flex-row sm:items-center sm:justify-between">
+      <div className="mx-auto flex max-w-[65ch] flex-col gap-4 px-6 py-3 sm:flex-row sm:items-center sm:justify-between">
         <Link href="/" className="inline-block w-fit" aria-label="Avenues home">
           <Image
-            src="/avenues-wordmark.jpg"
+            src="/avenues-wordmark-tight.jpg"
             alt="Avenues"
-            width={960}
-            height={400}
+            width={634}
+            height={263}
             priority
-            className="h-20 w-auto sm:h-24"
+            className="h-8 w-auto sm:h-9"
           />
         </Link>
         <nav aria-label="Primary">
