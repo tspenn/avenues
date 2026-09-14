@@ -58,7 +58,7 @@ export default async function PostPage({ params }: PageProps) {
       {post.hero ? (
         <Image
           src={post.hero}
-          alt="Empty panelled table, twelve chairs."
+          alt={post.heroAlt ?? post.title}
           width={1600}
           height={1000}
           priority

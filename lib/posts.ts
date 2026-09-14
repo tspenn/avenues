@@ -17,6 +17,7 @@ export type Post = {
   excerpt: string;
   section: Section;
   hero?: string;
+  heroAlt?: string;
   href: string;
   content: string;
 };
@@ -92,6 +93,10 @@ function parsePost(filename: string): Post {
     excerpt,
     section: data.section,
     hero: typeof data.hero === "string" && data.hero.trim() ? data.hero.trim() : undefined,
+    heroAlt:
+      typeof data.heroAlt === "string" && data.heroAlt.trim()
+        ? data.heroAlt.trim()
+        : undefined,
     href:
       typeof data.href === "string" && data.href.trim()
         ? data.href.trim()

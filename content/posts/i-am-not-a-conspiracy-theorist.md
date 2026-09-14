@@ -6,6 +6,7 @@ dek: "I am a fence-sitter. I am not a conspiracy theorist."
 excerpt: "I am a fence-sitter. I always see both sides of an issue. And I will say this: I am not a conspiracy theorist. I do not believe twelve men in a panelled room run the planet with a shared calendar and a preferred font for the New World Order letterhead."
 section: essay
 hero: /horrowemptyroom.jpg
+heroAlt: Empty panelled table, twelve chairs.
 ---
 
 I am a fence-sitter. I always see both sides of an issue. And I will say this: I am not a conspiracy theorist. I do not believe twelve men in a panelled room run the planet with a shared calendar and a preferred font for the New World Order letterhead.
