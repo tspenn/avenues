@@ -13,6 +13,7 @@ export type Post = {
   dek: string;
   excerpt: string;
   section: Section;
+  hero?: string;
   content: string;
 };
 
@@ -67,6 +68,7 @@ function parsePost(filename: string): Post {
     dek: data.dek,
     excerpt,
     section: data.section,
+    hero: typeof data.hero === "string" && data.hero.trim() ? data.hero.trim() : undefined,
     content: content.trim(),
   };
 }

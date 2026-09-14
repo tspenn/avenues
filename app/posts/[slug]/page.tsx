@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { MDXRemote } from "next-mdx-remote/rsc";
+import Image from "next/image";
 import Link from "next/link";
 import { chairFor } from "@/lib/authors";
 import { formatDate, getAllPosts, getPostBySlug } from "@/lib/posts";
@@ -49,6 +50,16 @@ export default async function PostPage({ params }: PageProps) {
           {post.author}
         </Link>
       </p>
+      {post.hero ? (
+        <Image
+          src={post.hero}
+          alt="Empty panelled table, twelve chairs."
+          width={1600}
+          height={1000}
+          priority
+          className="mt-8 w-full"
+        />
+      ) : null}
       <div className="prose-avenues mt-10 space-y-5 [&_p]:text-ink">
         <MDXRemote source={post.content} />
       </div>
