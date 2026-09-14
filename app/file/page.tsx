@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import { PostCard } from "@/components/PostCard";
 import { getFilePosts } from "@/lib/posts";
 
@@ -11,7 +12,15 @@ export default function FilePage() {
 
   return (
     <div>
-      <h1 className="font-serif text-3xl text-ink">File</h1>
+      <h1 className="sr-only">File</h1>
+      <Image
+        src="/SundayFilelogo1.jpg"
+        alt="Sunday File"
+        width={1600}
+        height={1000}
+        priority
+        className="w-full"
+      />
       {posts.length === 0 ? (
         <p className="mt-8">No file this week.</p>
       ) : (
