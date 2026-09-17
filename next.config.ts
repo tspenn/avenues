@@ -27,6 +27,11 @@ const nextConfig: NextConfig = {
         permanent: true,
       },
       {
+        source: "/posts/they-do-not-turn-on-a-dime",
+        destination: "/writers/whit-boone/they-do-not-turn-on-a-dime",
+        permanent: true,
+      },
+      {
         source: "/posts/now-what",
         destination: "/posts/you-hedged-now-what",
         permanent: true,
