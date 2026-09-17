@@ -78,6 +78,9 @@ export default async function PostPage({ params }: PageProps) {
         </figure>
       ) : null}
       <div className="prose-avenues mt-10 space-y-5 [&_h2]:mt-10 [&_h2]:font-serif [&_h2]:text-2xl [&_h2]:leading-snug [&_p]:text-ink">
+        {isDeskSection(post.section) ? (
+          <p className="font-serif text-lg italic text-ink/80">{post.dek}</p>
+        ) : null}
         {post.editorsNote ? (
           <aside className="border-l-2 border-ink/20 pl-4 font-sans text-sm text-ink/70">
             <span className="block font-semibold tracking-wide text-ink/80">
@@ -85,9 +88,6 @@ export default async function PostPage({ params }: PageProps) {
             </span>
             {post.editorsNote}
           </aside>
-        ) : null}
-        {isDeskSection(post.section) ? (
-          <p className="font-serif text-lg italic text-ink/80">{post.dek}</p>
         ) : null}
         <MDXRemote
           source={

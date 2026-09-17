@@ -4,7 +4,7 @@ date: "2026-09-17"
 author: Caroline North
 dek: All right. Worst case.
 excerpt: Not the movie. Not the hospital gossip. The ordinary ugly version, and how I am making plans inside it.
-editorsNote: We have leaders of advanced age in the three largest powers in the world. - change is always on the horizon.
+editorsNote: We have leaders of advanced age in the three largest powers in the world. Change is always on the horizon.
 section: sidelines
 hero: /myriams-fotos-clock-2133825.jpg
 heroAlt: An open pocket watch and chain resting on an old book.
