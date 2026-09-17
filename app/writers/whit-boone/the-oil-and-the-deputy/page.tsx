@@ -6,22 +6,32 @@ import { notFound } from "next/navigation";
 import { DateLine } from "@/components/DateLine";
 import { chairFor } from "@/lib/authors";
 import { getPostBySlug } from "@/lib/posts";
+import { ShareRow } from "@/components/ShareRow";
+import { articleMetadata, shareText, shareUrl } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: "The Oil and the Deputy",
-  description:
-    "A defendant on a plane and a concession on a desk. Those are different kinds of founding.",
-};
+const slug = "the-oil-and-the-deputy";
+
+export function generateMetadata(): Metadata {
+  const post = getPostBySlug(slug);
+  return post ? articleMetadata(post) : { title: "Not found" };
+}
 
 export default async function OilAndTheDeputyPage() {
-  const post = getPostBySlug("the-oil-and-the-deputy");
+  const post = getPostBySlug(slug);
   if (!post || post.author !== "Whit Boone") {
     notFound();
   }
 
   return (
     <article>
-      <DateLine post={post} />
+      <div className="flex flex-wrap items-start justify-between gap-x-6 gap-y-2">
+        <DateLine post={post} />
+        <ShareRow
+          title={post.title}
+          url={shareUrl(post)}
+          text={shareText(post)}
+        />
+      </div>
       <h1 className="mt-3 font-serif text-3xl leading-snug text-ink">
         {post.title}
       </h1>

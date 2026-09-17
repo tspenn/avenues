@@ -4,18 +4,21 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { chairFor } from "@/lib/authors";
 import { formatDate, getPostBySlug, splitLongform } from "@/lib/posts";
+import { ShareRow } from "@/components/ShareRow";
+import { articleMetadata, shareText, shareUrl } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: "Resistance and Its Cost",
-  description:
-    "Costume-play “Resistance” is a Saturday. The Founders left a country. The bill was real.",
-};
+const slug = "resistance-and-its-cost";
+
+export function generateMetadata(): Metadata {
+  const post = getPostBySlug(slug);
+  return post ? articleMetadata(post) : { title: "Not found" };
+}
 
 const articleClass =
   "prose-avenues mt-8 space-y-5 [&_h2]:mt-10 [&_h2]:font-serif [&_h2]:text-2xl [&_h2]:leading-snug [&_p]:text-ink";
 
 export default async function ResistancePage() {
-  const post = getPostBySlug("resistance-and-its-cost");
+  const post = getPostBySlug(slug);
   if (!post || post.author !== "Whit Boone") {
     notFound();
   }
@@ -27,7 +30,14 @@ export default async function ResistancePage() {
 
   return (
     <article>
-      <p className="font-sans text-sm text-ink/70">{formatDate(post.date)}</p>
+      <div className="flex flex-wrap items-start justify-between gap-x-6 gap-y-2">
+        <p className="font-sans text-sm text-ink/70">{formatDate(post.date)}</p>
+        <ShareRow
+          title={post.title}
+          url={shareUrl(post)}
+          text={shareText(post)}
+        />
+      </div>
       <h1 className="mt-3 font-serif text-3xl leading-snug text-ink">
         {post.title}
       </h1>

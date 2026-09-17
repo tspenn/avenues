@@ -5,7 +5,9 @@ import Image from "next/image";
 import Link from "next/link";
 import { attributionFor, chairFor, isDeskSection } from "@/lib/authors";
 import { DateLine } from "@/components/DateLine";
+import { ShareRow } from "@/components/ShareRow";
 import { bodyWithoutLeadingDek, getAllPosts, getPostBySlug } from "@/lib/posts";
+import { articleMetadata, shareText, shareUrl } from "@/lib/seo";
 
 type PageProps = {
   params: Promise<{ slug: string }>;
@@ -23,11 +25,7 @@ export async function generateMetadata({
   if (!post) {
     return { title: "Not found" };
   }
-  return {
-    title: post.title,
-    description: post.dek,
-    authors: [{ name: attributionFor(post.section, post.author) }],
-  };
+  return articleMetadata(post);
 }
 
 export default async function PostPage({ params }: PageProps) {
@@ -44,7 +42,14 @@ export default async function PostPage({ params }: PageProps) {
 
   return (
     <article>
-      <DateLine post={post} />
+      <div className="flex flex-wrap items-start justify-between gap-x-6 gap-y-2">
+        <DateLine post={post} />
+        <ShareRow
+          title={post.title}
+          url={shareUrl(post)}
+          text={shareText(post)}
+        />
+      </div>
       <h1 className="mt-3 font-serif text-3xl leading-snug text-ink">
         {post.title}
       </h1>

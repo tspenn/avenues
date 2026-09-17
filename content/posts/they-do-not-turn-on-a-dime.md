@@ -13,7 +13,7 @@ href: /writers/whit-boone/they-do-not-turn-on-a-dime
 
 A massive totalitarian regime does not turn on a dime. That sentence is the one part of this week that is not a rumor.
 
-Whether Xi Jinping is catching up on paperwork or whether we do not see him again is almost beside the point Boone is paid to keep: the machine was built to survive the man, and then the man spent a decade gutting the machine so that only he could survive. Those two facts do not sit easily in the same state.
+Whether Xi Jinping is catching up on paperwork or whether we do not see him again is almost beside the point: the machine was built to survive the man, and then the man spent a decade gutting the machine so that only he could survive. Those two facts do not sit easily in the same state.
 
 Personalist power looks stable from the outside. It looks like order. It is order of a brittle kind. Rome did not schedule its crises. France did not. Russia has spent a century proving that a cleared bench is not the same thing as a settled country. China has done hard things — famine, opening, the factory miracle, the present slump — without offering the West a clean play. That is not the same as saying it cannot break.
 
