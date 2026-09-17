@@ -5,9 +5,8 @@ author: Sunday Editor
 dek: And preseason shivers in Canada.
 excerpt: A rumor about one man’s health would not normally move the S&P 500. It does when that man is the center of a system that has spent a decade removing every other center.
 section: worldview
-hero: /laborde-pap.jpg
-heroAlt: People's Armed Police officers standing beside a patrol vehicle.
-heroCredit: Gaston Laborde (Pixabay)
+hero: /tremors-desk.jpg
+heroAlt: A newspaper on a C-suite desk. The headline reads Tremors Hit Wall Street.
 ---
 
 A rumor about one man’s health would not normally move the S&P 500. It does when that man is the center of a system that has spent a decade removing every other center.
