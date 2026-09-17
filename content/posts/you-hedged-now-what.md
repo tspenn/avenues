@@ -32,6 +32,14 @@ Wall Street will not wait for a nice announcement. They will get tired of asking
 
 Canadian energy should look clever in a scare. In practice it is tied to a buyer who may not be at the desk and a neighbor who is in a mood. That is not a tidy win. That is a mess with a pipeline.
 
+And yes, I have thought about the shopping. Not a warehouse. I am not going to be the woman with a pallet of paper towels in the garage again. But I have thought about it.
+
+Here is the honest part. In 2020 the shelves did not empty because the trucks stopped. They emptied because we all had the same idea on the same Saturday. The stampede was the shortage. That is the same trick the market is running right now, only with cans.
+
+Two doors, and both of them sticky. Ottawa is in a fight with the neighbor who actually takes our trucks, and the eastern door may not have anybody standing behind it. Neither of those empties a store this week. A container that leaves a dock late arrives late in six weeks, not Tuesday.
+
+Which is the entire argument for going early and going boring. Not because it is about to run out. Because if I wait until it is obvious, I will be standing in that aisle with everyone else who waited.
+
 I am not rearranging my whole life on a rumor. I am also not pretending no news is comfort. No news, in a one-man shop, is the expensive kind.
 
 When the picture comes — dated room, present tense, a man on the stairs in Washington — I will put this page in the drawer. Until then I am talking as if the appointment cannot be kept, and as if someone in Washington is already practicing the question.
