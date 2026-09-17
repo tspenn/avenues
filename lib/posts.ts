@@ -72,9 +72,12 @@ function parsePost(filename: string): Post {
     data.section !== "file" &&
     data.section !== "essay" &&
     data.section !== "longform" &&
-    data.section !== "worldview"
+    data.section !== "worldview" &&
+    data.section !== "sidelines"
   ) {
-    throw new Error(`${filename}: section must be file, essay, longform, or worldview`);
+    throw new Error(
+      `${filename}: section must be file, essay, longform, worldview, or sidelines`,
+    );
   }
 
   return {
@@ -152,6 +155,10 @@ export function getFilePosts(): Post[] {
 
 export function getWorldViewPosts(): Post[] {
   return getAllPosts().filter((post) => post.section === "worldview");
+}
+
+export function getSidelinesPosts(): Post[] {
+  return getAllPosts().filter((post) => post.section === "sidelines");
 }
 
 export function getPostBySlug(slug: string): Post | null {

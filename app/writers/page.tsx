@@ -25,7 +25,11 @@ export default function WritersPage() {
         href={CHAIRS["Whit Boone"].href}
         note={CHAIRS["Whit Boone"].note}
       />
-      <Chair name="Seat open" />
+      <Chair
+        name={CHAIRS["Caroline North"].name}
+        href={CHAIRS["Caroline North"].href}
+        note={CHAIRS["Caroline North"].note}
+      />
       <Chair name="Seat open" />
     </div>
   );

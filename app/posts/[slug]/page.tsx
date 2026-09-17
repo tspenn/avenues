@@ -3,7 +3,7 @@ import { notFound, redirect } from "next/navigation";
 import { MDXRemote } from "next-mdx-remote/rsc";
 import Image from "next/image";
 import Link from "next/link";
-import { attributionFor, chairFor } from "@/lib/authors";
+import { attributionFor, chairFor, isDeskSection } from "@/lib/authors";
 import { DateLine } from "@/components/DateLine";
 import { bodyWithoutLeadingDek, getAllPosts, getPostBySlug } from "@/lib/posts";
 
@@ -48,7 +48,7 @@ export default async function PostPage({ params }: PageProps) {
       <h1 className="mt-3 font-serif text-3xl leading-snug text-ink">
         {post.title}
       </h1>
-      {post.section === "worldview" ? (
+      {isDeskSection(post.section) ? (
         <p className="mt-4 font-serif italic text-ink">{attributionFor(post.section, post.author)}</p>
       ) : (
         <p className="mt-4 font-serif italic text-ink">
@@ -78,12 +78,12 @@ export default async function PostPage({ params }: PageProps) {
         </figure>
       ) : null}
       <div className="prose-avenues mt-10 space-y-5 [&_h2]:mt-10 [&_h2]:font-serif [&_h2]:text-2xl [&_h2]:leading-snug [&_p]:text-ink">
-        {post.section === "worldview" ? (
+        {isDeskSection(post.section) ? (
           <p className="font-serif text-lg italic text-ink/80">{post.dek}</p>
         ) : null}
         <MDXRemote
           source={
-            post.section === "worldview"
+            isDeskSection(post.section)
               ? bodyWithoutLeadingDek(post.content, post.dek)
               : post.content
           }

@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { attributionFor, chairFor } from "@/lib/authors";
+import { attributionFor, chairFor, isDeskSection } from "@/lib/authors";
 import { DateLine } from "@/components/DateLine";
 import { type Post } from "@/lib/posts";
 
@@ -14,7 +14,7 @@ export function PostCard({
   const chair = chairFor(post.author);
   const deskHref = post.section === "worldview" ? "/world-view" : chair.href;
   const teaser =
-    post.section === "longform" || post.section === "worldview"
+    post.section === "longform" || isDeskSection(post.section)
       ? post.dek
       : post.excerpt;
 
