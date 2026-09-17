@@ -15,6 +15,7 @@ export type Post = {
   author: Author;
   dek: string;
   excerpt: string;
+  editorsNote?: string;
   section: Section;
   hero?: string;
   heroAlt?: string;
@@ -96,6 +97,10 @@ function parsePost(filename: string): Post {
     author: data.author,
     dek: data.dek,
     excerpt,
+    editorsNote:
+      typeof data.editorsNote === "string" && data.editorsNote.trim()
+        ? data.editorsNote.trim()
+        : undefined,
     section: data.section,
     hero: typeof data.hero === "string" && data.hero.trim() ? data.hero.trim() : undefined,
     heroAlt:
