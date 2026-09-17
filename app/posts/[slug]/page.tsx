@@ -5,7 +5,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { attributionFor, chairFor } from "@/lib/authors";
 import { DateLine } from "@/components/DateLine";
-import { getAllPosts, getPostBySlug } from "@/lib/posts";
+import { bodyWithoutLeadingDek, getAllPosts, getPostBySlug } from "@/lib/posts";
 
 type PageProps = {
   params: Promise<{ slug: string }>;
@@ -49,16 +49,17 @@ export default async function PostPage({ params }: PageProps) {
         {post.title}
       </h1>
       {post.section === "worldview" ? (
-        <p className="mt-3 font-serif text-xl italic text-ink/80">{post.dek}</p>
-      ) : null}
-      <p className="mt-4 font-serif italic text-ink">
-        <Link
-          href={post.section === "worldview" ? "/world-view" : chairFor(post.author).href}
-          className="underline-offset-4 hover:underline"
-        >
-          {attributionFor(post.section, post.author)}
-        </Link>
-      </p>
+        <p className="mt-4 font-serif italic text-ink">{attributionFor(post.section, post.author)}</p>
+      ) : (
+        <p className="mt-4 font-serif italic text-ink">
+          <Link
+            href={chairFor(post.author).href}
+            className="underline-offset-4 hover:underline"
+          >
+            {attributionFor(post.section, post.author)}
+          </Link>
+        </p>
+      )}
       {post.hero ? (
         <figure className="mt-8">
           <Image
@@ -77,7 +78,16 @@ export default async function PostPage({ params }: PageProps) {
         </figure>
       ) : null}
       <div className="prose-avenues mt-10 space-y-5 [&_h2]:mt-10 [&_h2]:font-serif [&_h2]:text-2xl [&_h2]:leading-snug [&_p]:text-ink">
-        <MDXRemote source={post.content} />
+        {post.section === "worldview" ? (
+          <p className="font-serif text-lg italic text-ink/80">{post.dek}</p>
+        ) : null}
+        <MDXRemote
+          source={
+            post.section === "worldview"
+              ? bodyWithoutLeadingDek(post.content, post.dek)
+              : post.content
+          }
+        />
       </div>
     </article>
   );

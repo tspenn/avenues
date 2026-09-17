@@ -9,6 +9,8 @@ hero: /wall-street.jpg
 heroAlt: The Wall Street sign at Broadway, the photograph torn through.
 ---
 
+And preseason shivers in Canada.
+
 A rumor about one man’s health would not normally move the S&P 500. It does when that man is the center of a system that has spent a decade removing every other center.
 
 Xi Jinping returned from the BRICS summit in New Delhi on 14 September. Official China has since issued letters and “instructions.” It has not, as of Thursday, put him on camera in a new Beijing setting. Opposition accounts filled the gap with stroke claims that remain unverified. Markets do not need those claims to be true. They need them to be possible in a week when Xi is supposed to sit across from Donald Trump in Washington.

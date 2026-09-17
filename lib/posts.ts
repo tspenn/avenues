@@ -173,3 +173,15 @@ export function formatDate(date: string): string {
     timeZone: "UTC",
   }).format(new Date(Date.UTC(year, month - 1, day)));
 }
+
+export function bodyWithoutLeadingDek(content: string, dek: string): string {
+  const trimmed = content.trim();
+  const lead = dek.trim();
+  if (!lead) {
+    return trimmed;
+  }
+  if (trimmed === lead || trimmed.startsWith(`${lead}\n\n`)) {
+    return trimmed.slice(lead.length).trim();
+  }
+  return trimmed;
+}
