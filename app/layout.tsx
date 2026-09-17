@@ -1,8 +1,10 @@
 import type { Metadata } from "next";
 import { Source_Sans_3, Source_Serif_4 } from "next/font/google";
 import { HouseAds } from "@/components/HouseAds";
+import { SiteAnalytics } from "@/components/SiteAnalytics";
 import { SiteFooter } from "@/components/SiteFooter";
 import { SiteHeader } from "@/components/SiteHeader";
+import { DEFAULT_SHARE_IMAGE, SITE_NAME, SITE_URL } from "@/lib/seo";
 import "./globals.css";
 
 const sourceSans = Source_Sans_3({
@@ -17,12 +19,29 @@ const sourceSerif = Source_Serif_4({
   display: "swap",
 });
 
+const description = "A small house for dated notes and signed essays.";
+
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
   title: {
-    default: "Avenues",
-    template: "%s · Avenues",
+    default: SITE_NAME,
+    template: `%s · ${SITE_NAME}`,
   },
-  description: "A small house for dated notes and signed essays.",
+  description,
+  openGraph: {
+    type: "website",
+    siteName: SITE_NAME,
+    url: SITE_URL,
+    title: SITE_NAME,
+    description,
+    images: [{ url: DEFAULT_SHARE_IMAGE, alt: SITE_NAME }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: SITE_NAME,
+    description,
+    images: [DEFAULT_SHARE_IMAGE],
+  },
 };
 
 export default function RootLayout({
@@ -39,6 +58,7 @@ export default function RootLayout({
           <HouseAds />
         </div>
         <SiteFooter />
+        <SiteAnalytics />
       </body>
     </html>
   );

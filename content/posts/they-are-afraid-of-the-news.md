@@ -5,6 +5,9 @@ author: Caroline North
 dek: I am going to say the unkind thing, because it is sitting on the table.
 excerpt: Americans are grumping about fuel in machines the size of a small room. Europeans are looking at the same week and feeling something closer to fear.
 section: sidelines
+hero: /photos_by_armany-truck-7126333.jpg
+heroAlt: An open flatbed truck carrying sacks of produce across a green iron bridge.
+heroCredit: Photos By Armany (Pixabay)
 ---
 
 I am going to say the unkind thing, because it is sitting on the table.
