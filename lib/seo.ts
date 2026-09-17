@@ -32,9 +32,9 @@ export function shareUrl(post: Post): string {
 
 /**
  * Prefilled post body. X appends the link itself, so this ends on "More…".
- * Anything past 280 characters needs an X Premium account to send.
+ * Kept short on purpose: X drops the image card on long-form posts.
  */
-export function shareText(post: Post, paragraphs = 4, maxChars = 1200): string {
+export function shareText(post: Post, paragraphs = 1, maxChars = 200): string {
   const lead = isDeskSection(post.section)
     ? bodyWithoutLeadingDek(post.content, post.dek)
     : post.content;
