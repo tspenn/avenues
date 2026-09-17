@@ -47,3 +47,10 @@ export function isAuthor(value: string): value is Author {
 export function chairFor(author: Author): Chair {
   return CHAIRS[author];
 }
+
+export const WORLD_VIEW_ATTRIBUTION =
+  "Editor - World View - Avenues from Skyland Publishing";
+
+export function attributionFor(section: Section, author: Author): string {
+  return section === "worldview" ? WORLD_VIEW_ATTRIBUTION : author;
+}

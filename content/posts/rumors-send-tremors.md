@@ -53,4 +53,4 @@ Watch whether a dated Beijing appearance appears before the Washington date firm
 
 Rumors do not have to be true to send a tremor. They only have to land on a market that already knows China is weaker at home than the factory data imply, more concentrated at the top than it was a decade ago, and days from a meeting that only works if Xi Jinping can still walk into the room.
 
-— Sunday Editor
+— Editor - World View - Avenues from Skyland Publishing

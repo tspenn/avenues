@@ -3,7 +3,7 @@ import { notFound, redirect } from "next/navigation";
 import { MDXRemote } from "next-mdx-remote/rsc";
 import Image from "next/image";
 import Link from "next/link";
-import { chairFor } from "@/lib/authors";
+import { attributionFor, chairFor } from "@/lib/authors";
 import { DateLine } from "@/components/DateLine";
 import { getAllPosts, getPostBySlug } from "@/lib/posts";
 
@@ -26,6 +26,7 @@ export async function generateMetadata({
   return {
     title: post.title,
     description: post.dek,
+    authors: [{ name: attributionFor(post.section, post.author) }],
   };
 }
 
@@ -55,7 +56,7 @@ export default async function PostPage({ params }: PageProps) {
           href={post.section === "worldview" ? "/world-view" : chairFor(post.author).href}
           className="underline-offset-4 hover:underline"
         >
-          {post.author}
+          {attributionFor(post.section, post.author)}
         </Link>
       </p>
       {post.hero ? (

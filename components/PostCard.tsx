@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { chairFor } from "@/lib/authors";
+import { attributionFor, chairFor } from "@/lib/authors";
 import { DateLine } from "@/components/DateLine";
 import { type Post } from "@/lib/posts";
 
@@ -47,7 +47,7 @@ export function PostCard({
       <p className="mt-3 text-ink">{teaser}</p>
       <p className="mt-5 font-serif italic text-ink">
         <Link href={deskHref} className="underline-offset-4 hover:underline">
-          {post.author}
+          {attributionFor(post.section, post.author)}
         </Link>
       </p>
     </article>
