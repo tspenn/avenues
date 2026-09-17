@@ -33,14 +33,21 @@ export default async function TurnOnADimePage() {
         </Link>
       </p>
       {post.hero ? (
-        <Image
-          src={post.hero}
-          alt={post.heroAlt ?? post.title}
-          width={1600}
-          height={1000}
-          priority
-          className="mt-8 w-full"
-        />
+        <figure className="mt-8">
+          <Image
+            src={post.hero}
+            alt={post.heroAlt ?? post.title}
+            width={1600}
+            height={1000}
+            priority
+            className="w-full"
+          />
+          {post.heroCredit ? (
+            <figcaption className="mt-2 font-sans text-sm text-ink/70">
+              {post.heroCredit}
+            </figcaption>
+          ) : null}
+        </figure>
       ) : null}
       <div className="prose-avenues mt-10 space-y-5 [&_h2]:mt-10 [&_h2]:font-serif [&_h2]:text-2xl [&_h2]:leading-snug [&_p]:text-ink">
         <MDXRemote source={post.content} />

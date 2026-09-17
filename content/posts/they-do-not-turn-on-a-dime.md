@@ -5,6 +5,9 @@ author: Whit Boone
 dek: "Continuity is a bet. It is not a law."
 excerpt: "A massive totalitarian regime does not turn on a dime. That sentence is the one part of this week that is not a rumor."
 section: longform
+hero: /erdenebayar-worker-1076784.jpg
+heroAlt: A worker at a scrap baling press in a yard stacked with bundled steel.
+heroCredit: Erdenebayar Bayansan (Pixabay)
 href: /writers/whit-boone/they-do-not-turn-on-a-dime
 ---
 
