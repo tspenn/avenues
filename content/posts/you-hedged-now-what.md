@@ -1,5 +1,5 @@
 ---
-title: Now What
+title: You hedged. Now what?
 date: "2026-09-17"
 author: Caroline North
 dek: All right. Worst case.
@@ -28,7 +28,7 @@ He will enjoy it. The farm fight, the fifty percent, the liquor and the motorcyc
 
 I keep thinking about that. We were told the American door cost too much, so Canada would go east. Energy, cars, canola, a whole personality called “strategy.” Strategy assumes somebody is home. If nobody is home, that is not diversification. That is standing in a hallway smiling at a locked office.
 
-Wall Street will not wait for a nice announcement. They will get tired of asking and start marking things as if the meeting cannot happen. Not Lehman by lunch. Messier. Who signs the export paper. Who holds the rocks in the ground. Which factory still runs when the center is a rumor. Oil gets jumpy because the calendar cannot be trusted. Things that used to leave a Chinese dock on Tuesday leave late, or Oh Dear, or not at all. That is a price you feel at a pump and in a grocery aisle. Midterms love that kind of weather, and not in a kind way.
+Wall Street will not wait for a nice announcement. They will get tired of asking and start marking things as if the meeting cannot happen. Not Lehman by lunch. Messier. Who signs the export paper. Who holds the rocks in the ground. Which factory still runs when the center is a rumor. Oil gets jumpy because the calendar cannot be trusted. Things that used to leave a Chinese dock on Tuesday leave late, or Oh Dear, - not at all! That is a price you feel at a pump and in a grocery aisle. Midterms love that kind of weather, and not in a kind way.
 
 Canadian energy should look clever in a scare. In practice it is tied to a buyer who may not be at the desk and a neighbor who is in a mood. That is not a tidy win. That is a mess with a pipeline.
 

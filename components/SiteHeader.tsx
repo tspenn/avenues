@@ -7,7 +7,6 @@ const nav = [
   { href: "/sidelines", label: "Sidelines" },
   { href: "/writers", label: "Writers" },
   { href: "/about", label: "About" },
-  { href: "/subscribe", label: "Subscribe" },
 ];
 
 export function SiteHeader() {

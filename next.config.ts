@@ -26,6 +26,11 @@ const nextConfig: NextConfig = {
         destination: "/writers/whit-boone/the-oil-and-the-deputy",
         permanent: true,
       },
+      {
+        source: "/posts/now-what",
+        destination: "/posts/you-hedged-now-what",
+        permanent: true,
+      },
     ];
   },
 };
