@@ -30,7 +30,7 @@ export const CHAIRS: Record<Author, Chair> = {
     slug: "horrow",
     href: "/horrow",
     empty: "Essay forthcoming",
-    note: "",
+    note: "Parses bold print. Reads between the lines.",
   },
   "Whit Boone": {
     name: "Whit Boone",
