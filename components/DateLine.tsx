@@ -16,6 +16,15 @@ export function DateLine({ post }: { post: Post }) {
     );
   }
 
+  if (post.section === "worldview") {
+    return (
+      <p className="font-sans text-sm text-ink/70">
+        World View · {fileDate}
+        {posted ? <span className="block">{posted}</span> : null}
+      </p>
+    );
+  }
+
   return (
     <p className="font-sans text-sm text-ink/70">
       {fileDate}

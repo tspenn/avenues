@@ -6,7 +6,7 @@ export const AUTHORS = [
 
 export type Author = (typeof AUTHORS)[number];
 
-export type Section = "file" | "essay" | "longform";
+export type Section = "file" | "essay" | "longform" | "worldview";
 
 export type Chair = {
   name: Author;

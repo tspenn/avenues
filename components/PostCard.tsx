@@ -12,7 +12,11 @@ export function PostCard({
   showHero?: boolean;
 }) {
   const chair = chairFor(post.author);
-  const teaser = post.section === "longform" ? post.dek : post.excerpt;
+  const deskHref = post.section === "worldview" ? "/world-view" : chair.href;
+  const teaser =
+    post.section === "longform" || post.section === "worldview"
+      ? post.dek
+      : post.excerpt;
 
   return (
     <article className="border-b border-ink/15 py-8 first:pt-0">
@@ -23,19 +27,26 @@ export function PostCard({
         </Link>
       </h2>
       {showHero && post.hero ? (
-        <Link href={post.href} className="mt-5 block">
-          <Image
-            src={post.hero}
-            alt={post.heroAlt ?? post.title}
-            width={1600}
-            height={1000}
-            className="w-full"
-          />
-        </Link>
+        <figure className="mt-5">
+          <Link href={post.href} className="block">
+            <Image
+              src={post.hero}
+              alt={post.heroAlt ?? post.title}
+              width={1600}
+              height={1000}
+              className="w-full"
+            />
+          </Link>
+          {post.heroCredit ? (
+            <figcaption className="mt-2 font-sans text-sm text-ink/70">
+              {post.heroCredit}
+            </figcaption>
+          ) : null}
+        </figure>
       ) : null}
       <p className="mt-3 text-ink">{teaser}</p>
       <p className="mt-5 font-serif italic text-ink">
-        <Link href={chair.href} className="underline-offset-4 hover:underline">
+        <Link href={deskHref} className="underline-offset-4 hover:underline">
           {post.author}
         </Link>
       </p>

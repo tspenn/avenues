@@ -18,6 +18,7 @@ export type Post = {
   section: Section;
   hero?: string;
   heroAlt?: string;
+  heroCredit?: string;
   href: string;
   content: string;
 };
@@ -70,9 +71,10 @@ function parsePost(filename: string): Post {
   if (
     data.section !== "file" &&
     data.section !== "essay" &&
-    data.section !== "longform"
+    data.section !== "longform" &&
+    data.section !== "worldview"
   ) {
-    throw new Error(`${filename}: section must be file, essay, or longform`);
+    throw new Error(`${filename}: section must be file, essay, longform, or worldview`);
   }
 
   return {
@@ -96,6 +98,10 @@ function parsePost(filename: string): Post {
     heroAlt:
       typeof data.heroAlt === "string" && data.heroAlt.trim()
         ? data.heroAlt.trim()
+        : undefined,
+    heroCredit:
+      typeof data.heroCredit === "string" && data.heroCredit.trim()
+        ? data.heroCredit.trim()
         : undefined,
     href:
       typeof data.href === "string" && data.href.trim()
@@ -141,7 +147,11 @@ export function getPostsByAuthor(author: Author): Post[] {
 }
 
 export function getFilePosts(): Post[] {
-  return getPostsByAuthor("Sunday Editor");
+  return getAllPosts().filter((post) => post.section === "file");
+}
+
+export function getWorldViewPosts(): Post[] {
+  return getAllPosts().filter((post) => post.section === "worldview");
 }
 
 export function getPostBySlug(slug: string): Post | null {
