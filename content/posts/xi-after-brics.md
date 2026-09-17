@@ -5,8 +5,8 @@ author: Sunday Editor
 dek: The trip footage is a question. The stroke story is not the same thing.
 excerpt: Chinese President Xi Jinping left New Delhi on 13 September after the 18th BRICS summit and landed in Beijing that evening on the announced schedule. Within days the stroke rumors filled the gap.
 section: file
-hero: /beijing.jpg
-heroAlt: An empty official room in Beijing. Papers on the table.
+hero: /zhongnanhai.jpg
+heroAlt: An empty official room. Through the window, Xinhuamen, the gate of Zhongnanhai.
 ---
 
 Chinese President Xi Jinping left New Delhi on 13 September after the 18th BRICS summit and landed in Beijing that evening on the announced schedule. Within days the stroke rumors filled the gap.
