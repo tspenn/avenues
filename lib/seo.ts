@@ -1,30 +1,9 @@
-import fs from "fs";
-import path from "path";
 import type { Metadata } from "next";
 import { attributionFor, isDeskSection } from "./authors";
 import { bodyWithoutLeadingDek, type Post } from "./posts";
 
 export const SITE_NAME = "Avenues";
 export const SITE_URL = "https://avenues.skylandpublishing.com";
-
-export const DEFAULT_SHARE_IMAGE = "/avenues-og.jpg";
-const SUNDAY_FILE_SHARE_IMAGE = "/sunday-file-og.jpg";
-
-/** Cards want 1200x630. public/og holds a cropped copy of each hero; see scripts. */
-function cardVersion(hero: string): string {
-  const card = `/og${hero}`;
-  return fs.existsSync(path.join(process.cwd(), "public", card)) ? card : hero;
-}
-
-function shareImage(post: Post): { url: string; alt: string } {
-  if (post.section === "file") {
-    return { url: SUNDAY_FILE_SHARE_IMAGE, alt: "Sunday File" };
-  }
-  if (post.hero) {
-    return { url: cardVersion(post.hero), alt: post.heroAlt ?? post.title };
-  }
-  return { url: DEFAULT_SHARE_IMAGE, alt: SITE_NAME };
-}
 
 export function shareUrl(post: Post): string {
   return `${SITE_URL}${post.href}`;
@@ -58,9 +37,8 @@ export function shareText(post: Post, paragraphs = 1, maxChars = 200): string {
   return `${text}\n\nMore…`;
 }
 
+/** Shares carry the words only. Heroes stay on the page, not in the card. */
 export function articleMetadata(post: Post): Metadata {
-  const image = shareImage(post);
-  const imageUrl = `${SITE_URL}${image.url}`;
   const url = shareUrl(post);
   const byline = attributionFor(post.section, post.author);
 
@@ -77,13 +55,11 @@ export function articleMetadata(post: Post): Metadata {
       siteName: SITE_NAME,
       publishedTime: post.posted ?? post.date,
       authors: [byline],
-      images: [{ url: imageUrl, alt: image.alt }],
     },
     twitter: {
-      card: "summary_large_image",
+      card: "summary",
       title: post.title,
       description: post.dek,
-      images: [imageUrl],
     },
   };
 }

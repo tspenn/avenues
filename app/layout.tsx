@@ -4,7 +4,7 @@ import { HouseAds } from "@/components/HouseAds";
 import { SiteAnalytics } from "@/components/SiteAnalytics";
 import { SiteFooter } from "@/components/SiteFooter";
 import { SiteHeader } from "@/components/SiteHeader";
-import { DEFAULT_SHARE_IMAGE, SITE_NAME, SITE_URL } from "@/lib/seo";
+import { SITE_NAME, SITE_URL } from "@/lib/seo";
 import "./globals.css";
 
 const sourceSans = Source_Sans_3({
@@ -34,13 +34,11 @@ export const metadata: Metadata = {
     url: SITE_URL,
     title: SITE_NAME,
     description,
-    images: [{ url: DEFAULT_SHARE_IMAGE, alt: SITE_NAME }],
   },
   twitter: {
-    card: "summary_large_image",
+    card: "summary",
     title: SITE_NAME,
     description,
-    images: [DEFAULT_SHARE_IMAGE],
   },
 };
 
