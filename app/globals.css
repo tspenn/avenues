@@ -27,3 +27,12 @@ body {
   background: var(--color-accent);
   color: var(--color-ink);
 }
+
+/* A page marked data-notices="off" drops the notices column and takes the width back. */
+body:has([data-notices="off"]) aside[aria-label="House notices"] {
+  display: none;
+}
+
+body:has([data-notices="off"]) main {
+  margin-inline: auto;
+}

@@ -19,7 +19,7 @@ function memo(): string {
 
 export default function PriceOnTheCornerPage() {
   return (
-    <article className="prose-avenues space-y-5 [&_blockquote]:border-l-2 [&_blockquote]:border-ink/25 [&_blockquote]:pl-5 [&_blockquote]:font-serif [&_blockquote]:italic [&_blockquote]:text-ink/80 [&_p]:text-ink [&_strong]:font-serif [&_strong]:text-lg">
+    <article data-notices="off" className="prose-avenues space-y-5 [&_blockquote]:border-l-2 [&_blockquote]:border-ink/25 [&_blockquote]:pl-5 [&_blockquote]:font-serif [&_blockquote]:italic [&_blockquote]:text-ink/80 [&_p]:text-ink [&_strong]:font-serif [&_strong]:text-lg">
       <MDXRemote source={memo()} />
     </article>
   );
