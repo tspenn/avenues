@@ -5,6 +5,9 @@ author: Caroline North
 dek: Seriously? First the head of lettuce was going to kill me. Now it is just going to wipe out my bank account.
 excerpt: I was told to eat all natural. All natural is now in a fistfight with ramen, and ramen is winning on points.
 section: sidelines
+hero: /tariq786-retail-1424043.jpg
+heroAlt: An empty supermarket aisle, shelves of packaged goods running back toward the lit end of the store.
+heroCredit: Tariq786 (Pixabay)
 ---
 
 Seriously? First the head of lettuce was going to kill me. Now it is just going to wipe out my bank account.
