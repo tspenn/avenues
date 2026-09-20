@@ -2,7 +2,7 @@
 title: The strait gets the headline. Joliet moved the number.
 date: "2026-09-20"
 author: Sunday Editor
-dek: Diesel set an all-time record this week. The largest moves were in four states around one plant.
+dek: A record at the pump with a regional cause, a state visit with a published schedule, and a neighbour shopping for a new customer.
 excerpt: Diesel set an all-time national record this week. The explanation traveling with the number is the Strait of Hormuz. Part of that is real. It is not what moved this week.
 section: file
 ---
@@ -29,13 +29,45 @@ Then look at where it ran. Week over week, diesel rose sixty-six cents in Michig
 
 Four states in a ring around one plant in Channahon.
 
+## The body arrives Wednesday
+
+For a fortnight the open question on this desk was whether Xi Jinping would be shown in a dated room. On Friday evening the White House published a schedule, which is a different kind of answer.
+
+Xi and Peng Liyuan land at Joint Base Andrews on Wednesday 23 September, where the President will meet them at the airport — he ordinarily receives foreign leaders at the White House, not on a runway. Thursday brings an arrival ceremony on the State Floor, a military review in the Rose Garden, the bilateral meeting, and a state dinner in the East Room at which both men are to speak. Friday is a private tea and a tour of the National Archives, timed to the country's 250th year. He Lifeng is already here, leading a delegation through Wednesday for the economic talks.
+
+A senior administration official dismissed the health rumours outright and said the travel plans were unchanged.
+
+File that as a schedule rather than an appearance. A published itinerary is a commitment made by the American side about a man the Chinese side has still not put on camera in a new Beijing setting since New Delhi. As of the middle of last week, Beijing had not formally confirmed the visit. Wednesday afternoon at Andrews settles it one way or the other, and nothing before Wednesday does.
+
+## What the desks are pricing
+
+Not chaos. Not yet.
+
+The S&P closed Friday at 7,650.50, up a fraction, with support read around 7,500 and resistance around 7,700. The ten-year Treasury yield is back above five percent. WTI sits near $100 and Brent near $104. The Federal Reserve has delivered its first rate rise since 2023. After Friday's close the President signed a new Russia sanctions law. The options market has added something for the 25 September expiry, but modestly — traders are pricing an event, not a rupture.
+
+What actually hangs on Thursday is narrower than the headlines suggest, and more consequential. China's rare-earth export controls and the tariff truce both expire on 10 November. A package of reciprocal tariff cuts worth around thirty billion dollars has been discussed since the spring and not implemented; China's fifteen percent duty on American liquefied natural gas may sit inside it.
+
+So the trade to watch is not the handshake. It is whether export licences start moving for the aerospace and semiconductor firms that still cannot get material, and whether anything is agreed before the November date arrives on its own. Should the meeting go badly, the visible consequences are a firmer dollar, higher yields, weaker semiconductors and a rare-earth scarcity premium that stops being a talking point. Should it go well, the same names move the other way.
+
+There is also a smaller item with the strait in it: Beijing asked Tehran to restrain the Houthis after Riyadh asked Beijing. That is worth more to the price of diesel than any communiqué signed in the East Room.
+
+## Ottawa is shopping
+
+Canada spent the week looking for a customer.
+
+Talks with Washington collapsed on 22 August and have not resumed. Carney recalled his negotiators and said afterwards that the American side had asked for terms that would have left core Canadian industries operating as subsidiaries of their American counterparts, or wound down. Fifty percent duties landed on some twenty billion dollars of Canadian goods — twenty-seven point six billion by another count — under Section 338 of the Tariff Act of 1930, which applies whether or not the goods comply with the continental agreement. Ottawa answered on 8 September with tariffs of fifteen, twenty-five and fifty percent across roughly seven hundred American product lines, and seven and a half billion in relief at home. The President has since said he will double the rate on Canadian vehicles, parts and steel to fifty percent on the first of January.
+
+So Carney went to Europe. On Wednesday he sat in Strasbourg as the first foreign head of government to attend the Commission President's State of the Union address. He has promised to double Canada's non-American trade within a decade. European diplomats describe active work on trade, defence and digital security, and no comprehensive plan. The detailed conversation is deferred to a Canada-EU summit in Montreal in late October. The week before, he was in Toronto pitching a hundred and sixty projects to global investors, on timelines his own officials put at twelve to eighteen months.
+
+That is the shape of the bind. The tariffs are in force now. The alternatives are a summit in October, a pipeline of projects in a year or more, and a Chinese partner whose leader is currently the subject of a schedule rather than a photograph.
+
 ## What this file does not say
 
-It does not say the strait is fiction. Crude has been holding near $100, Hormuz is genuinely contested, Ukrainian strikes on Russian refining have been taking distillate out of the world for months, and strong American exports have thinned domestic inventories. A national record needs a national squeeze, and there is one.
+It does not say the strait is fiction. Crude has been holding near $100, Hormuz is genuinely contested, Ukrainian strikes on Russian refining have been taking distillate out of the world for months, and strong American exports have thinned domestic inventories. France says the G7 will meet on the energy crisis and discuss releases from strategic reserves; none has been approved. A national record needs a national squeeze, and there is one.
 
 It does not say Exxon did anything wrong. A power failure is a power failure, and the company has reported each step of it.
 
-And it does not say the rumor out of Beijing is moving the pump. A Chinese leadership scare is a demand story, and fear about Chinese demand ordinarily pushes crude down rather than up. If that rumor is in the price somewhere, it is not in this week's diesel.
+And it does not say the rumour out of Beijing moved the pump. A Chinese leadership scare is a demand story, and fear about Chinese demand ordinarily pushes crude down rather than up. If that rumour is in a price somewhere, it is not in this week's diesel.
 
 The claim here is narrower than any of those. The record is national. The week's move was regional, and it has an address.
 
