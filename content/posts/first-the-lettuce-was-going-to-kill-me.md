@@ -30,7 +30,7 @@ Anyway. That instruction is still on the books. Eat all natural. Nobody has with
 
 Here is why, and it is not complicated once you look at a cart instead of a chart.
 
-A head of lettuce is mostly water that has to be kept cold across two thousand miles on a clock. It has to be picked, chilled, loaded into a refrigerated trailer that burns fuel to stay cold while it burns fuel to move, driven across a continent, and put on a shelf before it turns. Every single thing in that sentence runs on diesel, and diesel set the highest price in the history of this country this week. Six forty-five.
+A head of lettuce is mostly water that has to be kept cold across two thousand miles on a clock. It has to be picked, chilled, loaded into a refrigerated trailer that burns fuel to stay cold while it burns fuel to move, driven across a continent, and put on a shelf before it turns. Every single thing in that sentence runs on diesel, and diesel set the highest price in the history of this country this week. Six forty.
 
 Ramen does not care. Ramen sits in a warehouse for a year with no refrigeration and no clock and no drama. It ships dense, it stacks, it does not wilt in a hot trailer outside Barstow. Whatever the fuel does, it does much less of it to the noodle.
 
