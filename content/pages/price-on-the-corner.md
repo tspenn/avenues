@@ -115,6 +115,14 @@ That is the distance between a punishment and a contract, and saying it that way
 
 The case underneath is not ideological, which is what makes it hard to argue with. At record margins, in the year diesel crossed six dollars, the three largest refiners in the country each reported capacity increases of under one percent. That is not an accusation; it is in their own filings. Their caution is rational — nobody commits ten billion dollars to a forty-year asset while half the political system has promised to legislate it worthless. But rational or not, it means this does not get built by the market, and has not been for forty-nine years. A country that cannot refine what it pumps is not energy independent. It is one power failure away from a bad month, and we have just had the power failure.
 
+There is one more argument here, and it is the one I would most want made to the industry — though not on Monday, and not by anyone standing in a government building.
+
+Nothing has ever sold an electric car in this country like four dollars and forty-eight cents. Not the mandates, not the credits, not fifteen years of being lectured at. A decade of deliberate policy could not move the American driver off gasoline, and one bad autumn at the pump is doing it free of charge. You can hear it now in rooms where it has never been said before — a man in a rally crowd who came out to boo the Green New Deal, turning to the person beside him and saying that Big Oil is making him want an electric car.
+
+That sentence ought to frighten the refiners considerably more than any committee hearing does, because it is not coming from their opposition. It is coming from the last constituency they have.
+
+The pump is the best advertising the electric car has ever gotten, and the industry is paying for the entire campaign itself. Nobody has to say that to them out loud. They can hear it on the evening news along with everyone else, and they can do the arithmetic faster than we can.
+
 The name is yours. Big Beautiful Refinery will write itself on a rally floor, and there is no reason to be shy about it.
 
 **How It Stacks**

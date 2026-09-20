@@ -102,11 +102,23 @@ Sit with that, because it is not a small statement. The code is not saying print
 
 Nor is this only on paper. Stainless valve bodies weighing seven hundred kilograms have been built this way, solution annealed afterward, and then tested head to head against forged material of the same grade. Tensile behavior comparable to wrought.
 
-I am not going to outrun the evidence, which is a habit of this subject. Seven hundred kilograms is not a coke drum. Nobody has printed one. Deposition rate is a genuine constraint when the finished part weighs three hundred tons, and the qualification of a vessel that size in front of a jurisdiction that has never seen one will be its own long argument.
+I meant to stop there, with a caution about scale. Seven hundred kilograms is not a coke drum, and I had a tidy sentence drafted about how nobody prints anything remotely that large.
 
-But that is an engineering problem with a known path, and an engineering problem with a known path is a different species of thing from a hard floor. Note, too, what my floor turned out to be made of. Not metallurgy. A committee — and the committee has largely voted.
+I should have checked that one as well.
 
-Which makes three. The decade was mostly paperwork. The permitting was a choice we made. And the one constraint I was certain was physical turns out to have been a document, and the document has already moved while nobody was looking.
+There is a company in Long Beach printing rockets. Not parts of rockets. Rockets. Terran 1 stood a hundred and ten feet tall and seven and a half feet across, and eighty-five percent of it by mass came off a printer, and it flew in March of 2023. It did not reach orbit — the second stage failed after separation. But the printed structure carried the vehicle through maximum aerodynamic pressure and through stage separation, which is the only part of that flight this argument needs.
+
+The machines are robotic arms extruding metal, which is the same family of process the pressure vessel code has just finished approving. The current generation of them prints objects up to a hundred and twenty feet long and twenty-four feet wide.
+
+A coke drum is thirty feet across and something over a hundred feet tall. Set those two sets of numbers beside each other. That is not a chasm. That is six feet of diameter, and it is closing from the direction you would expect.
+
+One further detail from that factory is worth sitting with. Their printers inspect the part while it is being built — sensors and closed-loop control, layer by layer, instead of testing the thing at the end. Now look back at the code. Full volumetric examination, strength reduction factor 1.0, no penalty whatsoever. The manufacturing method and the standard that governs it have arrived at the same requirement from opposite ends of the country, and so far as I can tell neither did it on purpose.
+
+So let me put my caution where it actually belongs, which is a good deal narrower than where I had it sitting an hour ago. The obstacle is not size, and it has not been size for some time. What Long Beach prints is aluminum, for a thin wall holding cryogenic propellant. A coke drum is thick-walled chromium-molybdenum steel clad in stainless, and it spends its working life being heated toward nine hundred degrees and then quenched, over and over, which is close to the cruelest duty anyone hands a piece of metal. Those are different materials doing different jobs. Nobody has printed the second one. The first jurisdiction asked to stamp one will take its time, and should.
+
+That is a real list, and I am not waving it off. But it is a list of engineering questions with known methods attached to them, which is a different species of thing from the flat impossibility I walked in holding.
+
+Which makes three. The decade was mostly paperwork. The permitting was a choice we made. And the constraint I was certain was physical turned out to be a document that had already moved while nobody was watching — and when I went looking for a second line of defense, I found a man in California printing rocket ships.
 
 I am a fence-sitter and I will own the fall. I sat down to write the sober piece explaining why this cannot be done quickly, and I cannot find the part that stops it. What I find instead, every time I dig, is us.
 
