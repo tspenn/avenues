@@ -116,39 +116,7 @@ One further detail from that factory is worth sitting with. Their printers inspe
 
 So let me put my caution where it actually belongs, which is a good deal narrower than where I had it sitting an hour ago. The obstacle is not size, and it has not been size for some time. What Long Beach prints is aluminum, for a thin wall holding cryogenic propellant. A coke drum is thick-walled chromium-molybdenum steel clad in stainless, and it spends its working life being heated toward nine hundred degrees and then quenched, over and over, which is close to the cruelest duty anyone hands a piece of metal. Those are different materials doing different jobs. Nobody has printed the second one. The first jurisdiction asked to stamp one will take its time, and should.
 
-Then the obvious question, which I should have asked myself a good while before I did. Why does the printer have to be as wide as the drum at all? Pipe gets welded. Why not print the thing in sections and join them?
-
-The answer is better than the question.
-
-Coke drums are already built in sections. Nobody forges one in a single piece and nobody ever has. You take clad plate — chromium-molybdenum steel with roughly an eighth of an inch of stainless bonded to the inner face — roll it into cylindrical courses, and stack those courses, welding each to the one beneath it. A hundred-foot drum is a dozen or so rings welded end to end. The forging press I spent three paragraphs worrying about is for heads and heavy nozzles. It was never for the shell.
-
-So the question is not whether printed sections could be welded together. Welded sections are the existing design.
-
-And here is the part I did not see coming.
-
-Those circumferential welds are what kills the drum. The quench loads the shell axially, along the vertical, so cracking initiates almost exclusively at the girth seams — starting on the inside face along the line where cladding was restored over the weld, then working outward through the wall. The literature is not coy about it: cracking at the girth seams is what sets the economic life of a coke drum. There is even a trade name for the pattern that spreads around it. They call it elephant skin.
-
-Which means the industry has spent years trying to build these things with fewer horizontal seams. One technique already in the field stands the plates on end and runs them vertically, buying more than forty feet of shell with no girth seam anywhere in the zone that quenches hardest.
-
-Now read the printer specification one more time. A hundred and twenty feet long.
-
-That machine does not merely match plate construction. It is aimed squarely at the failure mode. A deposited shell is laid down continuously around its circumference, so there is no longitudinal seam to begin with, and with a hundred and twenty feet of axial envelope the girth seams are not merely reduced. In the tallest drum in service they could be absent.
-
-I will not do the thing I have spent this piece accusing other people of doing. That is what the geometry permits. It is not something anyone has built.
-
-The diameter does not vanish either. Coke drums run twenty to thirty feet across and the printer is twenty-four feet wide, which is not a miss — it is most of the existing fleet already inside the envelope and the largest ones sitting six feet outside it. And a printer's envelope is set by how big you build the frame it rides on. That is a steel fabrication problem with a purchase order attached to it. The capacity of a forging press is set by tonnage and by what can be done to an ingot, and that is not.
-
-So: the third revision of my caution in a single afternoon, and it is down to two specific things.
-
-The wall is not one metal. It is low-alloy steel with a stainless skin, and depositing a two-material wall is a genuine problem — though it is worth noticing that changing feedstock partway through a print is closer to a native capability of this process than roll-bonding clad plate ever was.
-
-And the finished thing has to be heat treated. Printed metal wants stress relief, welded chromium-molybdenum requires post-weld heat treatment, and doing that to a three-hundred-ton vessel needs a furnace that somebody has to go and build.
-
-That is what my objection has been reduced to. A cladding qualification and a very large oven.
-
-I started the day with physics.
-
-That is still a real list and I am not waving it off. But it is a list of engineering questions with known methods attached, which is a different species of thing from the flat impossibility I walked in holding.
+That is a real list and I am not waving it off. But it is a list of engineering questions with known methods attached, which is a different species of thing from the flat impossibility I walked in holding. How far those methods actually carry is a piece for another week, and I would rather report it than guess at it.
 
 Which makes three. The decade was mostly paperwork. The permitting was a choice we made. And the constraint I was certain was physical turned out to be a document that had already moved while nobody was watching — and when I went looking for a second line of defense, I found a man in California printing rocket ships.
 
