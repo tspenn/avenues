@@ -3,13 +3,13 @@
 To: Stephen Miller  
 From: The Editor, Avenues  
 Date: 19 September 2026  
-Re: Getting the pump down before November — a solidarity week and Patriot Stations
+Re: Getting the pump down before November — a solidarity week, Patriot Stations, and a groundbreaking
 
 Mr. Miller,
 
 The object is the price on the corner: a lower gallon that Americans can see now, and can still see on November 3.
 
-What follows is a proposal rather than a finished plan, and it works with what already exists — pumps that are already pouring and retailers who are already looking for a reason to be liked. It asks for two weeks of concentrated effort aimed at a single number, plus one move on day one that is not written down here.
+What follows is a proposal rather than a finished plan, and it works with what already exists — pumps that are already pouring and retailers who are already looking for a reason to be liked. It asks for two weeks of concentrated effort aimed at a single number, plus one move on day one that is not written down here, and one announcement aimed well past November that nonetheless pays before it.
 
 **The Problem**
 
@@ -87,9 +87,41 @@ The legal work on the trustee and the distributor agreements can begin now, and 
 
 The public name and the first live boards wait for week two. Addresses go up as they sign, and every participating site stays lit through November, because the duration is the program. A video of one station on one afternoon is not.
 
+**Week Two — The Ground Gets Broken**
+
+Everything above is a fortnight of work aimed at a price. The objection to all of it is the same objection, and it will be made the morning after the first Patriot board goes up: none of this fixes why the number is high.
+
+That objection is correct. There is an answer to it, and the answer can be started before November.
+
+The United States has not built a new refinery since 1977. The last one of any size broke ground in 1973, in Garyville, Louisiana, and Gerald Ford was president when it lit. We ran 205 refineries in 1990 and we run 130 now. Capacity has fallen better than four percent since January of 2020, and three plants have shut in the last eighteen months — one of which took five percent off the entire West Coast, a region with almost no pipeline reaching it from the Gulf.
+
+That is the real reason a single power failure at one plant in Illinois on a Sunday afternoon put diesel up sixty-six cents in Michigan within five days. There is no slack left anywhere in the system. The Strait is real, but the Strait is not why one outage moves four states.
+
+So: a refinery built as a public work by the Army Corps of Engineers, under emergency authority. It was reported on 11 September that this building is already examining refining capacity through the Defense Production Act. The instrument is sitting there.
+
+I will be straight about the timing, because somebody will raise it within a day of your reading this. It does not produce a gallon before November, and nothing can make it.
+
+What it produces before November is a groundbreaking.
+
+I would argue that is the most valuable single image available to this administration between now and the third. Every other answer to the price is a promise about next week, and the country has been handed a great many of those and has learned what they are worth. A shovel in the ground is not a promise. It is a site, a date, a payroll, and a photograph that runs in every market in the country, and it says the one thing an opponent cannot answer — that somebody finally started.
+
+The standard estimate for a refinery is eight to ten years, and that estimate is old. Very little of that decade was ever concrete. It was design, permitting, procurement and sequencing — coordination work, which is precisely the category whose cost has collapsed in the last three years. The Corps is not a firm that rents engineers project by project the way an oil company does; it is thirty-seven thousand of them already on the federal payroll, organized into districts that do nothing else. And the heavy forging bottleneck that used to make the pressure vessels a ten-year item by itself now has a path around it: ASME has approved the code case for additively manufactured pressure parts, with no strength penalty at all where the finished part is fully inspected.
+
+None of that makes it fast in the ordinary sense of the word. It makes it exponentially faster than 1973, which is the only comparison anybody has. We laid twelve hundred and fifty miles of pipeline from Texas to Pennsylvania in three hundred and fifty days in 1942, with slide rules, while fighting two wars on two oceans. That belongs in the speech.
+
+One caution on sequencing, and it is the reason this belongs in week two and not week one. The industry will read a federal refinery as a threat if it arrives before the courtesy calls, and Monday morning is the whole of your goodwill with them. Afterward it reads differently — particularly if the operating contract goes out to bid. The Corps builds; it does not run a catalytic cracker and it should never be asked to. Government-owned and contractor-operated is how this country has run shipyards, arsenals and laboratories for a century, and it means the majors are not the target of the announcement. They are candidates to operate it.
+
+That is the distance between a punishment and a contract, and saying it that way costs nothing.
+
+The case underneath is not ideological, which is what makes it hard to argue with. At record margins, in the year diesel crossed six dollars, the three largest refiners in the country each reported capacity increases of under one percent. That is not an accusation; it is in their own filings. Their caution is rational — nobody commits ten billion dollars to a forty-year asset while half the political system has promised to legislate it worthless. But rational or not, it means this does not get built by the market, and has not been for forty-nine years. A country that cannot refine what it pumps is not energy independent. It is one power failure away from a bad month, and we have just had the power failure.
+
+The name is yours. Big Beautiful Refinery will write itself on a rally floor, and there is no reason to be shy about it.
+
 **How It Stacks**
 
-Monday morning, the folders. Monday afternoon, the Rose Garden asks the country for seven days of small sacrifices and everyone begins watching the sign together. Week two, Patriot Stations goes live with independents, a distributor, discounted diesel, and a children's contribution drawn only from those gallons, open to anyone willing to post the price. November sits on top of all of it.
+Monday morning, the folders. Monday afternoon, the Rose Garden asks the country for seven days of small sacrifices and everyone begins watching the sign together. Week two, Patriot Stations goes live with independents, a distributor, discounted diesel, and a children's contribution drawn only from those gallons, open to anyone willing to post the price. Then the ground gets broken on the first American refinery in forty-nine years, which answers the question the other two cannot. November sits on top of all of it.
+
+Three things, and they do different work. The first two are aimed at the number on the corner between now and the third. The third is aimed at the reason that number is what it is, and its whole value before the election is the photograph of the shovel.
 
 **What I Would Not Do**
 
@@ -99,11 +131,13 @@ I would not promise a national two-dollar average that the crude market will not
 
 I would not take the first Patriot board down the Monday after a good headline.
 
+I would not let the refinery get announced ahead of the folders, because it is the one piece of this that can be heard as a threat, and it only has to be heard that way once.
+
 And I would not put the folders in writing, which is why they are not in here.
 
 **In One Sentence**
 
-Get the pump down before November with the folders on Monday morning, a light week of solidarity from Monday afternoon, and then Patriot Stations — independents on a new distributor, diesel discounted where the record actually sits, and a children's contribution drawn only from those gallons.
+Get the pump down before November with the folders on Monday morning, a light week of solidarity from Monday afternoon, then Patriot Stations — independents on a new distributor, diesel discounted where the record actually sits, and a children's contribution drawn only from those gallons — and break ground on the first American refinery since 1977, because the country deserves to be told why the number got this high and shown that somebody has finally started on it.
 
 The Editor  
 avenues.skylandpublishing.com  

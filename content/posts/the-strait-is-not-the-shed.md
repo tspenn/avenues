@@ -64,7 +64,7 @@ The decade is paperwork and sequencing. It is front-end engineering design — t
 
 Read that list again. Every item on it is an information problem. And information problems are precisely the category of work that has become drastically cheaper in the last three years.
 
-I want to be exact here, because "AI will fix it" is the sort of sentence I usually take apart. A model does not pour a foundation. It does not forge a coker drum, and there are only a handful of shops on earth that can, which makes long-lead equipment a hard floor that no software touches. Anyone promising a refinery in eighteen months is selling something.
+I want to be exact here, because "AI will fix it" is the sort of sentence I usually take apart. A model does not pour a foundation and it does not cure concrete. Anyone promising a refinery in eighteen months is selling something.
 
 But the drafting, the clash detection, the procurement schedule, the permit filing, the logistics of getting the right crane onto the right pad in the right week — that is where the years actually live, and that is the work that has changed. Compressing the design-and-coordination half of a ten-year schedule is not a speculative use of this technology. It is the boring one.
 
@@ -79,6 +79,36 @@ We have run this play before. The Big Inch — a twenty-four-inch line from Long
 Nobody in 1942 had a computer. What they had was an emergency, a suspension of the ordinary review, and a government willing to state that the thing would be built.
 
 All three of those are available to us, and we have tools that generation could not have pictured.
+
+## The floor turned out to be a committee
+
+I had a second objection ready, and it was the one I believed was unanswerable.
+
+Whatever software does to the drawings, a refinery is made of enormous steel vessels holding pressure. A coke drum is thirty feet across and better than a hundred feet tall, the wall is thick, and historically the way you got one was to pour an ingot and put it under a forging press the size of a building. There are only a handful of shops on earth with a press that size, and almost none of them are here, because we let that capacity go overseas across thirty years and barely noticed. You cannot download a forging.
+
+That was my floor. Physics, and a press we no longer own.
+
+It is not holding up, and I would rather say so than defend it.
+
+What is displacing it is not a desktop gadget. It is a robot laying weld metal down bead on bead until the part is standing there — the trade calls it directed energy deposition, and it is much closer to automated welding than to anything in a hobby magazine. The capital equipment is a robot cell rather than a fifteen-thousand-ton press. That distinction is the whole argument, because a robot cell is something a country can buy and install inside a year, and a heavy forging industry is not.
+
+The question was never really whether you could lay the metal down. It was whether anyone would let you put it into service holding pressure, and that question belongs to the ASME Boiler and Pressure Vessel Code, a document that has governed this work since 1914 and does not move quickly. Nor should it. The reason we do not routinely read about American refineries coming apart is that this code is conservative and the people who write it are difficult.
+
+It moved anyway. Section IX, which governs how you qualify a process, published rules for arc-based additive manufacturing in 2023. Section VIII — the pressure vessel code itself — now has an approved code case for it.
+
+And then the detail I did not see coming. The penalty for printing a part is graduated by how thoroughly you inspect it. Examine one hundred percent of the finished volume and the strength reduction factor is 1.0. No derating at all. The same allowable stress as a vessel made the old way. Inspect a tenth of it and you give up fifteen percent. Inspect none and you give up thirty.
+
+Sit with that, because it is not a small statement. The code is not saying printed steel is weaker. It is saying it will trust exactly as much as you actually looked at.
+
+Nor is this only on paper. Stainless valve bodies weighing seven hundred kilograms have been built this way, solution annealed afterward, and then tested head to head against forged material of the same grade. Tensile behavior comparable to wrought.
+
+I am not going to outrun the evidence, which is a habit of this subject. Seven hundred kilograms is not a coke drum. Nobody has printed one. Deposition rate is a genuine constraint when the finished part weighs three hundred tons, and the qualification of a vessel that size in front of a jurisdiction that has never seen one will be its own long argument.
+
+But that is an engineering problem with a known path, and an engineering problem with a known path is a different species of thing from a hard floor. Note, too, what my floor turned out to be made of. Not metallurgy. A committee — and the committee has largely voted.
+
+Which makes three. The decade was mostly paperwork. The permitting was a choice we made. And the one constraint I was certain was physical turns out to have been a document, and the document has already moved while nobody was looking.
+
+I am a fence-sitter and I will own the fall. I sat down to write the sober piece explaining why this cannot be done quickly, and I cannot find the part that stops it. What I find instead, every time I dig, is us.
 
 ## What I am not saying
 
