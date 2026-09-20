@@ -2,7 +2,7 @@
 title: The strait gets the headline. Joliet moved the number.
 date: "2026-09-20"
 author: Sunday Editor
-dek: A record at the pump with a regional cause, a state visit with a published schedule, and a neighbour shopping for a new customer.
+dek: A record at the pump with a regional cause, a missile over Riyadh, a state visit with a published schedule, and a neighbour shopping for a new customer.
 excerpt: Diesel set an all-time national record this week. The explanation traveling with the number is the Strait of Hormuz. Part of that is real. It is not what moved this week.
 section: file
 ---
@@ -28,6 +28,18 @@ That gap is the tell. Crude lifts both fuels together, more or less. When diesel
 Then look at where it ran. Week over week, diesel rose sixty-six cents in Michigan, fifty-two in Indiana, forty-seven in Illinois, thirty-five in Wisconsin. By Friday Illinois regular was $4.85 and Michigan $4.89, against a national average of $4.47.
 
 Four states in a ring around one plant in Channahon.
+
+## Overnight, the other corridor
+
+This file was written before Saturday ended, and Saturday did not end quietly.
+
+At dawn the Houthis fired a ballistic missile at Riyadh — the first time the Saudi capital has been targeted since the fighting escalated in July. The Saudi-led coalition says it was intercepted and destroyed. Saudi authorities had pushed air-raid alerts across the kingdom overnight, residents reported two explosions, and AFP journalists saw a fuel tank carrying the Aramco logo burning near the capital's airport. No casualties have been reported.
+
+A second operation was claimed against Aramco facilities at Yanbu, the Red Sea export hub. The coalition says attacks on Yanbu, Taif, Bisha and Farasan were all thwarted. The Houthi spokesman put both operations down as an answer to Saudi attempts on Sanaa. The State Department said the hostilities have the potential to escalate rapidly.
+
+Note what that means for the corridor, because it is the part that reaches a pump in Ohio. Hormuz has been blockaded since the summer. The Red Sea is the alternative route for Gulf exports, and Yanbu sits on it. In one night, both the primary passage and its substitute were under attack.
+
+Beijing asked Tehran to restrain the Houthis last week, at Riyadh's request. Saturday is the answer to that request, or the absence of one.
 
 ## The body arrives Wednesday
 
@@ -63,7 +75,7 @@ That is the shape of the bind. The tariffs are in force now. The alternatives ar
 
 ## What this file does not say
 
-It does not say the strait is fiction. Crude has been holding near $100, Hormuz is genuinely contested, Ukrainian strikes on Russian refining have been taking distillate out of the world for months, and strong American exports have thinned domestic inventories. France says the G7 will meet on the energy crisis and discuss releases from strategic reserves; none has been approved. A national record needs a national squeeze, and there is one.
+It does not say the strait is fiction. Crude has been holding near $100, Hormuz has been blockaded since July, Ukrainian strikes on Russian refining have been taking distillate out of the world for months, and strong American exports have thinned domestic inventories. France says the G7 will meet on the energy crisis and discuss releases from strategic reserves; none has been approved. A national record needs a national squeeze, and there is a large one. Saturday night made it larger.
 
 It does not say Exxon did anything wrong. A power failure is a power failure, and the company has reported each step of it.
 
