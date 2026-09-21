@@ -6,6 +6,10 @@ dek: When government comes through the door, people notice. The tax base notices
 excerpt: This is not a story about panic, and it is not a story about people fleeing to a friendlier color on a television map. Both feet and a ballot are notice.
 section: longform
 href: /writers/whit-boone/they-vote-with-the-truck
+hero: /sferrario1968-i-move-by-bicycle-680224.jpg
+heroAlt: A bicycle on a city street with a mattress stacked on the front basket, a red suitcase, and an office chair beside it.
+heroCaption: Getting Out of Dodge
+heroCredit: Stefano Ferrario (Pixabay)
 ---
 
 ## What Notice Is For

@@ -48,9 +48,16 @@ export default async function TheyVoteWithTheTruckPage() {
             priority
             className="w-full"
           />
-          {post.heroCredit ? (
-            <figcaption className="mt-2 font-sans text-sm text-ink/70">
-              {post.heroCredit}
+          {post.heroCaption || post.heroCredit ? (
+            <figcaption className="mt-2">
+              {post.heroCaption ? (
+                <p className="font-serif italic text-ink">{post.heroCaption}</p>
+              ) : null}
+              {post.heroCredit ? (
+                <p className="mt-1 font-sans text-sm text-ink/70">
+                  {post.heroCredit}
+                </p>
+              ) : null}
             </figcaption>
           ) : null}
         </figure>
