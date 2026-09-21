@@ -2,7 +2,7 @@
 title: Good Luck Making It Home
 date: "2026-09-21"
 author: Caroline North
-dek: I saw this on X this morning and I laughed out loud.
+dek: They issued Iran the visa for the UN speech. Wednesday he talks — and the fuel truck becomes a Treasury problem.
 excerpt: Matt Tardio caught the sequence. We issued the visas so Iran could speak at the UN. Then Treasury told the world's airports what fueling an Iranian airliner would cost, starting Wednesday — the day the Iranian president is scheduled to take the microphone in New York.
 section: sidelines
 hero: /mike_ramirez_mx-parachute-7015708.jpg
