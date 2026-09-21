@@ -21,6 +21,12 @@ export default function AboutPage() {
         For correspondence, write to{" "}
         <a href="mailto:info@avenuesfiles.com">info@avenuesfiles.com</a>.
       </p>
+      <p className="mt-8">
+        <a href="/feed.xml">RSS</a>
+        <span className="mt-1 block text-ink/70">
+          (Complimentary for now. We have not promised it always will be.)
+        </span>
+      </p>
     </div>
   );
 }
