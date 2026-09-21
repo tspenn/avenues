@@ -5,7 +5,14 @@ export default function robots(): MetadataRoute.Robots {
     rules: {
       userAgent: "*",
       allow: "/",
-      disallow: ["/fuel-conservation"],
+      disallow: [
+        "/fuel-conservation",
+        "/quadrupeds",
+        "/bio-textiles",
+        "/extreme-dwelling",
+        "/swamp-building",
+        "/tech-teasers",
+      ],
     },
   };
 }
