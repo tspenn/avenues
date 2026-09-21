@@ -1,10 +1,9 @@
 import type { Metadata } from "next";
 import { MDXRemote } from "next-mdx-remote/rsc";
 import Image from "next/image";
-import Link from "next/link";
 import { notFound } from "next/navigation";
 import { DateLine } from "@/components/DateLine";
-import { chairFor } from "@/lib/authors";
+import { attributionFor } from "@/lib/authors";
 import { getPostBySlug } from "@/lib/posts";
 import { ShareRow } from "@/components/ShareRow";
 import { articleMetadata, shareText, shareUrl } from "@/lib/seo";
@@ -36,12 +35,7 @@ export default async function OilAndTheDeputyPage() {
         {post.title}
       </h1>
       <p className="mt-4 font-serif italic text-ink">
-        <Link
-          href={chairFor(post.author).href}
-          className="underline-offset-4 hover:underline"
-        >
-          {post.author}
-        </Link>
+        {attributionFor(post.section, post.author)}
       </p>
       {post.hero ? (
         <Image

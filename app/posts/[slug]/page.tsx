@@ -2,8 +2,7 @@ import type { Metadata } from "next";
 import { notFound, redirect } from "next/navigation";
 import { MDXRemote } from "next-mdx-remote/rsc";
 import Image from "next/image";
-import Link from "next/link";
-import { attributionFor, chairFor, isDeskSection } from "@/lib/authors";
+import { attributionFor, isDeskSection } from "@/lib/authors";
 import { DateLine } from "@/components/DateLine";
 import { ShareRow } from "@/components/ShareRow";
 import { bodyWithoutLeadingDek, getAllPosts, getPostBySlug } from "@/lib/posts";
@@ -53,18 +52,9 @@ export default async function PostPage({ params }: PageProps) {
       <h1 className="mt-3 font-serif text-3xl leading-snug text-ink">
         {post.title}
       </h1>
-      {isDeskSection(post.section) ? (
-        <p className="mt-4 font-serif italic text-ink">{attributionFor(post.section, post.author)}</p>
-      ) : (
-        <p className="mt-4 font-serif italic text-ink">
-          <Link
-            href={chairFor(post.author).href}
-            className="underline-offset-4 hover:underline"
-          >
-            {attributionFor(post.section, post.author)}
-          </Link>
-        </p>
-      )}
+      <p className="mt-4 font-serif italic text-ink">
+        {attributionFor(post.section, post.author)}
+      </p>
       {post.hero ? (
         <figure className="mt-8">
           <Image

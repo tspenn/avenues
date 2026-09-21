@@ -56,11 +56,13 @@ export function chairFor(author: Author): Chair {
   return CHAIRS[author];
 }
 
+export const HOUSE_ATTRIBUTION = "Avenues";
+
 export const WORLD_VIEW_ATTRIBUTION =
-  "Editor - World View - Avenues from Skyland Publishing";
+  `Editor - World View - ${HOUSE_ATTRIBUTION}`;
 
 export const SIDELINES_ATTRIBUTION =
-  "Sidelines - Caroline North - Avenues at Skyland Publishing";
+  `Sidelines - Caroline North - ${HOUSE_ATTRIBUTION}`;
 
 export function isDeskSection(section: Section): boolean {
   return section === "worldview" || section === "sidelines";
@@ -73,5 +75,8 @@ export function attributionFor(section: Section, author: Author): string {
   if (section === "sidelines") {
     return SIDELINES_ATTRIBUTION;
   }
-  return author;
+  if (section === "file") {
+    return `Sunday File - Sunday Editor - ${HOUSE_ATTRIBUTION}`;
+  }
+  return `${author} - ${HOUSE_ATTRIBUTION}`;
 }
