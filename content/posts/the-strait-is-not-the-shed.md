@@ -48,35 +48,11 @@ But notice what it does to the objection. The case against public construction i
 
 ## Then it takes ten years
 
-That is the next thing said, and it was my own position as recently as this week.
-
-So I went and asked what the decade is actually made of. It is not concrete. Concrete cures at the speed it cured in 1973. The decade is drawings, permits and paperwork — and paperwork is the one kind of work whose cost has collapsed while the rest of us were arguing about something else. The permitting half was never physics at all. It is a choice we made, and it can be unmade under emergency authority. On 11 September it was reported that this administration is already looking at refining through exactly that instrument.
-
-An oil company, incidentally, does not keep an army of engineers. It rents one, job by job, from the same pool everybody else is renting from, which is why its projects queue behind one another. The Corps of Engineers does not hire engineers. It is thirty-seven thousand of them, already on the payroll.
-
-Then I went hunting for the hard floor under all of it — the enormous steel vessels, the part I was certain no software could touch. I will give that its own piece another week, because it needs more room than it can have here. The short version is that I could not find the floor. What I kept turning up instead was a committee, and the committees have largely voted.
-
-Which is the pattern, and it is the one thing in this I am sure of. Every constraint I assumed was physical has turned out to be a document.
-
-## What I am not saying
-
-Not that the Corps should operate a refinery. It builds levees and locks and channels. It does not crack hydrocarbons, and an agency running a catalytic unit is a bad joke waiting for a hearing.
-
-Not that any of this lowers a gallon before November. Even a schedule that beats every estimate on the board puts the first barrel well past the counting of the votes.
-
-And not that Exxon is the villain of Channahon. A power cut is a power cut, and then it rained.
-
-## What I am saying
+That is the next thing said, and it was my own position as recently as this week. I am not going to take the decade apart in this column. I have more to say about it. Not here.
 
 The reason one storm in Illinois moves the price of groceries in Ohio is that we have run a critical system with no slack for fifty years and then acted astonished every time it failed.
 
-This country builds things when the thing is necessary and nobody else will build it. That is not a socialist proposition. It is the Erie Canal, the interstate highways and the Hoover Dam. We laid twelve hundred miles of pipeline from Texas to Pennsylvania in three hundred and fifty days in 1942, with slide rules, while fighting two wars on two oceans.
-
-So build it as a public work, and site it where the shortage is worst, which today is the West Coast. Let the Corps do what the Corps does — enormous infrastructure, federal land, a federal deadline — and then lease the operation to somebody who actually knows how to run one. Government-owned and contractor-operated. We have done exactly that with shipyards, arsenals and laboratories for a century.
-
-Then let it sell at cost plus something modest, and watch what one plant that is not playing the game does to everybody else's pricing.
-
-I want to be plain about that last part, because it is the point and it is what will make people angry. This is not charity toward the industry and it is not punishment of it. It is competition, in a business that has quietly stopped having any. Fewer, bigger, more concentrated, and no new entrant in forty-nine years is not a market failing at the edges. It is a market that has been allowed to stop being one.
+We are the most prosperous and productive country in the world. Is this really all we can do?
 
 The strait will take years and it is not in our gift. The shed is in our gift. It has been the whole time.
 
