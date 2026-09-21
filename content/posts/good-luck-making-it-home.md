@@ -32,7 +32,7 @@ The rest of the world is still trying to tell us what to do, Napoleon complexes 
 
 I keep seeing people talk as if the UN runs JFK. It does not. It runs a speaking order. The Headquarters Agreement gets a delegation into the room. It does not make a refinery in another country sell jet fuel to a sanctioned airline and then pretend the dollar is a courtesy. That was never in the lease.
 
-Someone is already saying he can hop to Mexico and find a quiet place on the border. Oh. No. Guess not. The hose is not a New York hose. Bessent did not say JFK. He said the world. Mexico City has fuel trucks. Those fuel trucks still like dollars. Then Canada, maybe? Sweetheart. Pearson is not a loophole. Ottawa has spent the year practicing how to be a third door. It is not going to be the third door for an Iranian airliner on a Wednesday when the dollar is the lock.
+Someone is already saying he can hop to Mexico and find a quiet place on the border. Oh. No. Guess not. The hose is not a New York hose. Bessent did not say JFK. He said the world. Mexico City has fuel trucks. Those fuel trucks still like dollars. Then what? A bus to Canada? Sweetheart. Pearson is not a loophole. Greyhound is not a foreign policy. Ottawa has spent the year practicing how to be a third door. It is not going to be the third door for an Iranian airliner on a Wednesday when the dollar is the lock.
 
 So he can have the speech. He can have the hall. He can have the cameras we did not let him bring. What he cannot have is a full tank and a straight face about who is in charge of it.
 
