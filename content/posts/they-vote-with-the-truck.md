@@ -8,7 +8,7 @@ section: longform
 href: /writers/whit-boone/they-vote-with-the-truck
 ---
 
-## What notice is for
+## What Notice Is For
 
 This is not a story about panic, and it is not a story about people fleeing to a friendlier color on a television map. Americans have been answering government with their feet for a long time, and they have been answering it with a ballot for a long time. Both are notice. Both happen when the offices forget the difference between serving a people and managing them.
 
@@ -26,7 +26,7 @@ Future 42 ran the same weather per head and said Seattle was first — first at 
 
 A search is not a move. Most Seattle hunters are still looking inside the metro. That is true. It is also how notice begins: not with a flag, with a listing. The people who can still choose are already choosing in private.
 
-## The bill that follows
+## The Bill That Follows
 
 Redfin’s clerking is not mysterious. The metros people leave are expensive job centers. The places they type into the bar are cheaper. You may say housing. You may say tax stacked on tax. You may say a school, a street, a permit that takes years. Families do not need a single villain. They need a life they can keep.
 
@@ -34,7 +34,7 @@ The part the capital prefers not to say is the tax base. The households that can
 
 Olympia can publish a net migration number that is still above water and call the table a vibe. The search data are the early warning. Income is the later one. If lawmakers want different numbers, they will have to change the reasons a family is looking at a house they do not yet live in.
 
-## The other offer
+## The Other Offer
 
 The same week, Massachusetts put a different paper on the table.
 
@@ -48,7 +48,7 @@ What the paper does not say is what a no becomes. Is it only a closed door, forg
 
 A nurse who comes because a parent asked is a service. That has not changed. Consent at the door is not a detail. It is the point. People notice when the point is lost. They do not have to load a truck to notice. They only have to decide whether the no still means no.
 
-## Next door, a ballot
+## Next Door, a Ballot
 
 Maine is not a footnote to Seattle. It is choosing a governor on 3 November. Janet Mills is term-limited. Hannah Pingree, Bobby Charles, and Rick Bennett are on the ballot. The argument already in the papers is the house and the levy — homestead exemptions, property tax, who can still afford to stay. I am not picking a name. I am dating the file. Six weeks from a New England open seat, the neighbor is expanding an offer at the crib, and a West Coast table is showing who is already looking elsewhere. That is not a stampede. It is a people noticing what government is for, and what it costs when the answer is wrong.
 

@@ -27,7 +27,7 @@ The young who cannot find work do not vanish. The state publishes a youth jobles
 
 Patriots take on different nationalities when the old nationality stops being a home and starts being a rumor. We say that easily about smaller places: a Kurd, a Scot, an Iranian who decides the republic on the stamps is no longer his. We have been slow to say it about a civilization this large, because the size itself became a theology — too big to crack, too factory-heavy to fail, too ancient to split. Hong Kong already learned that “one country” can stop feeling like a home. Taiwan has spent decades refusing the name. Inside the mainland the old regional selves — Cantonese, Shanghainese, the northeast that rusted first — never fully died. They just learned not to speak. A rumor at the center is when people remember they have another name.
 
-## The road, such as it is
+## The Road, Such As It Is
 
 Nixon was not wrong about the lever. He was wrong about who would hold it.
 

@@ -11,7 +11,7 @@ Diesel set an all-time national record this week. That part is not in dispute. A
 
 The explanation traveling with the number is the Strait of Hormuz, and crude near $100. Part of that is real. It is not what moved this week.
 
-## What is on the record
+## What Is On the Record
 
 On Sunday 13 September, at about half past three in the afternoon, ExxonMobil's refinery at Channahon, Illinois — the plant everyone calls Joliet — lost power. The outage tripped the safety flare and shut the site. Power was back around seven that evening. The plant was not.
 
@@ -19,7 +19,7 @@ Joliet runs 275,000 barrels a day, and by the company's own account turns out ab
 
 It flared again on Wednesday. On Thursday morning heavy rain overflowed a catch basin and floodwater overwhelmed a pump, and the company filed that the flooding was not associated with either the outage or the restart. A containment boom went out. The refinery was still down through Thursday. By Friday Exxon said units were restarting, without a date for full capacity.
 
-## What the prices did
+## What the Prices Did
 
 In the week to Thursday, national regular gasoline rose about sixteen cents. National diesel rose about forty-two.
 
@@ -29,7 +29,7 @@ Then look at where it ran. Week over week, diesel rose sixty-six cents in Michig
 
 Four states in a ring around one plant in Channahon.
 
-## Overnight, the other corridor
+## Overnight, the Other Corridor
 
 This file was written before Saturday ended, and Saturday did not end quietly.
 
@@ -41,7 +41,7 @@ Note what that means for the corridor, because it is the part that reaches a pum
 
 Beijing asked Tehran to restrain the Houthis last week, at Riyadh's request. Saturday is the answer to that request, or the absence of one.
 
-## The body arrives Wednesday
+## The Body Arrives Wednesday
 
 For a fortnight the open question on this desk was whether Xi Jinping would be shown in a dated room. On Friday evening the White House published a schedule, which is a different kind of answer.
 
@@ -51,7 +51,7 @@ A senior administration official dismissed the health rumours outright and said 
 
 File that as a schedule rather than an appearance. A published itinerary is a commitment made by the American side about a man the Chinese side has still not put on camera in a new Beijing setting since New Delhi. As of the middle of last week, Beijing had not formally confirmed the visit. Wednesday afternoon at Andrews settles it one way or the other, and nothing before Wednesday does.
 
-## What the desks are pricing
+## What the Desks Are Pricing
 
 Not chaos. Not yet.
 
@@ -63,7 +63,7 @@ So the trade to watch is not the handshake. It is whether export licences start 
 
 There is also a smaller item with the strait in it: Beijing asked Tehran to restrain the Houthis after Riyadh asked Beijing. That is worth more to the price of diesel than any communiqué signed in the East Room.
 
-## Ottawa is shopping
+## Ottawa Is Shopping
 
 Canada spent the week looking for a customer.
 
@@ -73,7 +73,7 @@ So Carney went to Europe. On Wednesday he sat in Strasbourg as the first foreign
 
 That is the shape of the bind. The tariffs are in force now. The alternatives are a summit in October, a pipeline of projects in a year or more, and a Chinese partner whose leader is currently the subject of a schedule rather than a photograph.
 
-## What this file does not say
+## What This File Does Not Say
 
 It does not say the strait is fiction. Crude has been holding near $100, Hormuz has been blockaded since July, Ukrainian strikes on Russian refining have been taking distillate out of the world for months, and strong American exports have thinned domestic inventories. France says the G7 will meet on the energy crisis and discuss releases from strategic reserves; none has been approved. A national record needs a national squeeze, and there is a large one. Saturday night made it larger.
 
@@ -83,7 +83,7 @@ And it does not say the rumour out of Beijing moved the pump. A Chinese leadersh
 
 The claim here is narrower than any of those. The record is national. The week's move was regional, and it has an address.
 
-## Why it matters past Tuesday
+## Why It Matters Past Tuesday
 
 On 11 September, before any of this, it was reported that the White House was examining ways to expand American refining through the Defense Production Act.
 

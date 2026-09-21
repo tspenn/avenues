@@ -17,7 +17,7 @@ Xi Jinping returned from the BRICS summit in New Delhi on 14 September. Official
 
 That is how a rumor becomes a price.
 
-## The tape does not wait for a diagnosis
+## The Tape Does Not Wait For a Diagnosis
 
 Wall Street’s China exposure is no longer the old story of endless consumer growth. It is a narrower, more political book: factories and tech supply chains, commodities, luxury names that still need Chinese buyers, and a 24 September summit that investors have treated as a cap on tariff and rare-earth risk.
 
@@ -31,7 +31,7 @@ The third wave is the classic risk-off: Treasuries, the dollar, gold, and a fres
 
 What the market is less likely to get is a cinematic collapse. Beijing can still force loan rollovers and push capital into the big state banks. The cost, if the people who know the system are right, is Japan, not Lehman: losses socialized, growth ground down, no overnight bankruptcy that exports a 2008-style shock. That is cold comfort for anyone long Chinese demand. A managed crunch still lowers the world’s second engine. It just does it slowly — unless politics accelerates it.
 
-## Why this rumor is more expensive than the last one
+## Why This Rumor Is More Expensive Than the Last One
 
 China watchers have priced Xi health scares before. Two things make this week different.
 
@@ -39,7 +39,7 @@ He has hollowed out the bench. The PLA purge has reached into the Central Milita
 
 And the calendar is tight. A rumor in a quiet month is commentary. A rumor in the week before a White House summit is a binary. Airlines, protocol teams, and equity desks are all watching the same question: does the body arrive?
 
-## Carney’s hedge sits on the same rumor
+## Carney’s Hedge Sits On the Same Rumor
 
 Mark Carney spent 2026 telling Canadians that the American door was too costly and that Canada must pivot. The numbers show the pivot in motion. Exports to China rose about 30% in the first half of the year, led by energy. Ottawa cut a deal to admit Chinese EVs at a low tariff in exchange for relief on canola and other farm goods. After trade talks with Washington collapsed and tariffs landed, that China channel was sold as strategy, not sentiment.
 
@@ -47,7 +47,7 @@ It is a strategy that assumes Beijing is a durable counterpart. Canola relief, E
 
 That is the part that makes the former central banker’s position look like a punchline. Balance sheets can be stress-tested. Personalized autocracy cannot. Carney’s model of “pivot and prosper” has a single point of failure in Zhongnanhai, and this week that point is the subject of a rumor the official machine has chosen not to kill with a camera.
 
-## What Wall Street should actually watch
+## What Wall Street Should Actually Watch
 
 Not the next exile thread. Not another gait analysis.
 

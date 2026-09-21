@@ -18,7 +18,7 @@ Readers of this desk have heard the method. A swarm of drones is a spell until y
 
 The strait is their problem. Ours is a building — in Louisiana, or Illinois, or nowhere — and we have not put one up since 1977.
 
-## One plant, four states, five days
+## One Plant, Four States, Five Days
 
 On 13 September a refinery at Channahon, Illinois lost power on a Sunday afternoon. By Friday diesel was up sixty-six cents in Michigan, fifty-two in Indiana, forty-seven in Illinois and thirty-five in Wisconsin, against sixteen cents on national gasoline.
 
@@ -30,7 +30,7 @@ And since 2020 even that has stopped covering the exits. Houston closed last Mar
 
 The last refinery of any size built new in this country broke ground in 1973. Ford was president when they poured the foundations.
 
-## The objection
+## The Objection
 
 I am a fence-sitter by temperament, and I have spent my life on the side of the argument that says government should not build what private capital will build. I have not changed my mind about that. The objection deserves a hearing.
 
@@ -46,7 +46,7 @@ That is not a conspiracy and I will not pretend it is one. It is a rational firm
 
 But notice what it does to the objection. The case against public construction is that private capital will handle it. Private capital is telling us, in its own filings, that it will not. The objection has stopped describing the world.
 
-## Then it takes ten years
+## Then It Takes Ten Years
 
 That is the next thing said, and it was my own position as recently as this week. I am not going to take the decade apart in this column. I have more to say about it. Not here.
 

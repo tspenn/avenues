@@ -16,7 +16,7 @@ I am a fence-sitter. I always see both sides of an issue. The exile threads have
 
 A rumor about one man’s health would not normally move the S&P 500. It does when that man is the center of a system that has spent a decade removing every other center. That is not a conspiracy. It is an org chart with the middle taken out.
 
-## The tape is not a doctor
+## The Tape Is Not a Doctor
 
 He left New Delhi after BRICS and was reported home on the announced schedule. Since then the machine has kept publishing in his name. A letter. Manufacturing instructions. Paper that can be signed, or at least issued, whether the principal is resting, traveling, or simply not being shown.
 
@@ -24,7 +24,7 @@ Markets do not wait for a diagnosis. They wait for a body that can still walk in
 
 That is how a rumor becomes a price. It does not have to be true. It only has to land on a week when the calendar is already tight.
 
-## The cinematic version is the one I distrust
+## The Cinematic Version Is the One I Distrust
 
 I remain a skeptic of the grand collapse. Beijing can still roll loans and push capital into the big state banks. The unattractive remainder, if the people who actually know the books are right, is Japan, not Lehman: losses socialized, growth ground down, no overnight bankruptcy that exports a 2008-style shock. That is not comfort. It is a slower sentence.
 
@@ -34,7 +34,7 @@ The part that is new is not the health scare. China watchers have priced those b
 
 I still will not close a medical file on an exile thread. I also refuse to keep calling a missing principal a rounding error.
 
-## What to watch if you are not in the movie
+## What To Watch If You Are Not In the Movie
 
 Not the next gait analysis. Not another bald man with a cat.
 

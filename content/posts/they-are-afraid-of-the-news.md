@@ -22,7 +22,7 @@ At the meter the gap is smaller than the wholesale number makes it sound. A Dutc
 
 We fill a Super SUV and complain. We should. Money is money. But we still have a continent of oil, a loud argument, and a cupboard that mostly fills. The flinch at our pump is a mood. In a lot of Europe the flinch is the week: the loaf, the radiator, the fourth-floor room that already cooked people this summer while the speeches called it transition.
 
-## What the summer actually cost
+## What the Summer Actually Cost
 
 They just came off a heat that sat on the old and the alone. Homes not built for those nights. Policies that made power precious and then acted surprised when the body kept score.
 
@@ -38,7 +38,7 @@ You do not come off a summer like that and then take a shipping scare as enterta
 
 If the lanes stay ugly — war-risk premiums up, hulls routed the long way around trouble — and China goes from no camera to a calendar that breaks, they do not receive that as a seminar. They receive it as dinner. We receive it as a more expensive Saturday and a segment on the evening news.
 
-## Two kitchens
+## Two Kitchens
 
 See the split. One public is invited to treat energy as a lifestyle complaint. The other is invited to treat it as weather it cannot vote off the window. Keep the first group annoyed but mobile. Keep the second group cold, hot, or dear, and grateful for whatever cap the capital announces. That is a very old way to run a neighborhood. Call it climate, call it union, call it strategy. The plate knows.
 

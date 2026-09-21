@@ -18,7 +18,7 @@ Why mention Ireland? Because he went himself. You do not put the President on th
 
 Monday in Cardiff, party leaders from Scotland, Wales, and Northern Ireland put names on a memorandum — self-rule talk, energy, Europe. That is a political paper. It is not the United Kingdom breaking up at breakfast. The law still sits in London.
 
-## Before the opening bell
+## Before the Opening Bell
 
 The same Sunday is selling a panic for Monday’s open. It is using the Canada clip, the Ireland trip, the Cardiff memo, and the AI boards as one pile. You do not need to panic. Not on this file. Not yet.
 

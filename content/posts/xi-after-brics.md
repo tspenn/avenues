@@ -14,7 +14,7 @@ Chinese President Xi Jinping left New Delhi on 13 September after the 18th BRICS
 
 None of that is proof. It is also not nothing. Here is what is on the record, why the dramatic claims should stay unverified, and what is worth watching from here.
 
-## What is reported to have happened
+## What Is Reported To Have Happened
 
 He attended the summit on 12–13 September. He met Indian Prime Minister Narendra Modi. He spoke at both sessions. He left New Delhi around midday on the 13th. Chinese statements said senior Indian officials saw him off. He landed in Beijing that evening with Cai Qi and Wang Yi on the same flight.
 
@@ -26,7 +26,7 @@ Separately, Xie Wanjun, an overseas opposition figure with the China Democracy P
 
 India’s Ministry of External Affairs fact-check unit warned against “malicious” posts claiming world leaders fell ill after the summit. That does not medically clear Xi. It does show the host government treated the viral illness narrative as false.
 
-## Why the rumor should be questioned
+## Why the Rumor Should Be Questioned
 
 First, the itinerary does not match an emergency evacuation. Beijing announced the 12–13 September dates before he traveled. He attended the second session, delivered remarks, and left on the last scheduled day. An abrupt medical flight home would have required rewriting that public timeline. Official records do not show that rewrite.
 
@@ -40,7 +40,7 @@ Fifth, a real collapse at an international summit is hard to contain completely.
 
 The honest position is therefore narrow. The trip footage raised a legitimate question about how he looked. The stroke-and-301-Hospital story has not been confirmed. Treating the two as the same thing is how rumor becomes “news.”
 
-## What to watch
+## What To Watch
 
 The test is not an official medical bulletin. Beijing almost never issues those. The test is whether the machine puts him back on camera in a setting that cannot be old footage.
 
