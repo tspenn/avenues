@@ -63,3 +63,23 @@ Future 42’s closer is still the right one for the table they found. We continu
 People want a government that serves them. When it does not — when it comes through the door, or makes the roof a luxury — they notice. Some look at houses. Some look at a ballot. The capital can call that a mood. The books will not.
 
 — Whit Boone
+
+## Addendum, 21 September
+
+A clip went around this afternoon: official, boom, the Florida legislature has abolished statewide property taxes. That is not the paper.
+
+In June the legislature passed CS/HJR 1-F and put Amendment 3 on the 3 November ballot — the same day Maine chooses a governor. House 75–26. Senate 30–9. Filed with the Secretary of State on 16 June. It needs 60 percent of the voters. If it passes, it takes effect 1 January 2027. It raises the homestead exemption on non-school levies, to $150,000 and then $250,000. It tightens the cap on how fast other assessments may rise. It leaves school property tax in place. Counties and cities still levy. The property appraisers say so in plain English: the amendment does not eliminate property taxes.
+
+DeSantis asked for more than he got. Abolition was the speech. The paper is an exemption and a vote. I am not picking the amendment. I am dating the clip.
+
+So, plainly: 3 November is not a vote to end property tax in Florida. School levies stay. Counties and cities still send a bill. What is on the ballot is whether the homestead exemption on the rest of that bill gets much larger. People who want zero will not get zero. They may get a cheaper roof. That is still a reason to look.
+
+That is the same thing the table at the top of this page was already about. People are not leaving Seattle, San Jose, Los Angeles, and New York because the weather turned. They are leaving because the house costs too much, the levy keeps stacking, and the offices keep reaching — a door, a crib, a paycheck. They want a government that serves them and then stays out. When they open a search bar, they are looking for that.
+
+Where do they go?
+
+Redfin already has one answer. In the first quarter the Seattle hunters typed Phoenix, where a house costs about half. That is a price. Florida is a different number on the same company’s books: houses that are listed and not selling. Redfin calls a listing stale when it sits sixty days without a contract. In February that share was highest in Florida. Miami: nearly two-thirds sitting. West Palm Beach, Orlando, Tampa, Jacksonville: all over half. Seattle and the Bay Area, the metros people are trying to leave, were among the lowest. The empty properties are not a theory. They are on the market.
+
+If Amendment 3 passes, those sitting houses get a smaller homestead levy in 2027 and a smaller one again in 2028. A cheaper bill on a house that has been waiting is how a stale listing becomes a listing people want. Not overnight. Not a panic. Demand rises because the thing they were escaping — a roof that eats the paycheck, and a government that will not stop reaching — looks less expensive in a warm state that just cut the line on the tax bill. The expensive coasts they are leaving vote one way. The places they are typing vote another, and advertise the weather. I do not need a color chart for that. I need the search bar and the ballot on the same day.
+
+Maine asks, on 3 November, who will keep the homestead bearable. Florida asks, the same morning, whether to cheapen it. The people already looking will notice both. If Florida’s answer is yes, the inventory that has been sitting will not sit as long. That is arithmetic. It is not a boom.
