@@ -1,5 +1,5 @@
 ---
-title: The strait gets the headline. Joliet moved the number.
+title: The Strait Gets the Headline. Joliet Moved the Number.
 date: "2026-09-20"
 author: Sunday Editor
 dek: A record at the pump with a regional cause, a missile over Riyadh, a state visit with a published schedule, and a neighbour shopping for a new customer.

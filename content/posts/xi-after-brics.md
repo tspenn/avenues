@@ -1,5 +1,5 @@
 ---
-title: "Xi After BRICS: What Happened, Why the Stroke Claims Don’t Hold Up Yet, and What Actually Matters Next"
+title: "Xi After BRICS: What Happened, Why the Stroke Claims Don’t Hold Up Yet, And What Actually Matters Next"
 date: "2026-09-17"
 author: Sunday Editor
 dek: The trip footage is a question. The stroke story is not the same thing.

@@ -1,5 +1,5 @@
 ---
-title: The clip is from August. The deal died in August.
+title: The Clip Is From August. The Deal Died In August.
 date: "2026-09-14"
 author: Sunday Editor
 dek: No need to panic Monday’s open. Not yet.

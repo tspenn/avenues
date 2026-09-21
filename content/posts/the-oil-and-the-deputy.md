@@ -1,5 +1,5 @@
 ---
-title: The Oil and the Deputy
+title: The Oil And the Deputy
 date: "2026-01-01"
 posted: "2026-09-14"
 dateLabel: January 2026

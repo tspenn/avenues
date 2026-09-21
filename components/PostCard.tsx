@@ -26,6 +26,9 @@ export function PostCard({
           {post.title}
         </Link>
       </h2>
+      {post.dek ? (
+        <p className="mt-3 font-serif text-lg italic text-ink/80">{post.dek}</p>
+      ) : null}
       {showHero && post.hero ? (
         <figure className="mt-5">
           <Link href={post.href} className="block">
@@ -44,7 +47,9 @@ export function PostCard({
           ) : null}
         </figure>
       ) : null}
-      <p className="mt-3 text-ink">{teaser}</p>
+      {teaser && teaser !== post.dek ? (
+        <p className="mt-3 text-ink">{teaser}</p>
+      ) : null}
       <p className="mt-5 font-serif italic text-ink">
         <Link href={deskHref} className="underline-offset-4 hover:underline">
           {attributionFor(post.section, post.author)}

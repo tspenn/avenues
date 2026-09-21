@@ -1,5 +1,5 @@
 ---
-title: You hedged. Now what?
+title: You Hedged. Now What?
 date: "2026-09-17"
 author: Caroline North
 dek: All right. Worst case.

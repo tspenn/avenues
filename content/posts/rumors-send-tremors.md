@@ -1,5 +1,5 @@
 ---
-title: Rumors Send Tremors to Wall Street
+title: Rumors Send Tremors To Wall Street
 date: "2026-09-17"
 author: Sunday Editor
 dek: And preseason shivers in Canada.

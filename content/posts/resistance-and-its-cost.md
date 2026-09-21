@@ -1,5 +1,5 @@
 ---
-title: Resistance and Its Cost
+title: Resistance And Its Cost
 date: "2026-09-14"
 author: Whit Boone
 dek: "Costume-play “Resistance” is a Saturday. The Founders left a country. The bill was real."

@@ -1,5 +1,5 @@
 ---
-title: They Do Not Turn on a Dime
+title: They Do Not Turn On a Dime
 date: "2026-09-17"
 author: Whit Boone
 dek: "Continuity is a bet. It is not a law."

@@ -1,5 +1,5 @@
 ---
-title: First the Lettuce Was Going to Kill Me
+title: First the Lettuce Was Going To Kill Me
 date: "2026-09-20"
 author: Caroline North
 dek: Seriously? First the head of lettuce was going to kill me. Now it is just going to wipe out my bank account.

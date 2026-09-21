@@ -1,5 +1,5 @@
 ---
-title: They Are Afraid of the News. We Are Annoyed at the Pump.
+title: They Are Afraid Of the News. We Are Annoyed At the Pump.
 date: "2026-09-17"
 author: Caroline North
 dek: I am going to say the unkind thing, because it is sitting on the table.

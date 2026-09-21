@@ -1,5 +1,5 @@
 ---
-title: He asked for the island. He took the door.
+title: He Asked For the Island. He Took the Door.
 date: "2026-01-21"
 posted: "2026-09-14"
 author: Sunday Editor
