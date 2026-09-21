@@ -40,11 +40,11 @@ export default async function ResistancePage() {
       <h1 className="mt-3 font-serif text-3xl leading-snug text-ink">
         {post.title}
       </h1>
+      <p className="mt-3 font-serif text-lg italic text-ink/80">{post.dek}</p>
       <p className="mt-4 font-serif italic text-ink">
         {attributionFor(post.section, post.author)}
       </p>
-      <p className="mt-6 text-ink">{post.dek}</p>
-      <p className="mt-4">
+      <p className="mt-6">
         <a href="#both-sides" className="underline-offset-4 hover:underline">
           Skip to both sides of the fire
         </a>

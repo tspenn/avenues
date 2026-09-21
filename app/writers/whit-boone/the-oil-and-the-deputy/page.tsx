@@ -34,6 +34,7 @@ export default async function OilAndTheDeputyPage() {
       <h1 className="mt-3 font-serif text-3xl leading-snug text-ink">
         {post.title}
       </h1>
+      <p className="mt-3 font-serif text-lg italic text-ink/80">{post.dek}</p>
       <p className="mt-4 font-serif italic text-ink">
         {attributionFor(post.section, post.author)}
       </p>
