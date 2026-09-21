@@ -42,6 +42,11 @@ const nextConfig: NextConfig = {
         destination: "/posts/you-hedged-now-what",
         permanent: true,
       },
+      {
+        source: "/posts/the-strait-is-not-the-shed",
+        destination: "/posts/the-strait-is-their-problem",
+        permanent: true,
+      },
     ];
   },
 };

@@ -1,8 +1,8 @@
 ---
-title: The Strait Is Not the Shed
+title: The Strait Is Their Problem
 date: "2026-09-20"
 author: Julian B. Horrow
-dek: I do not know how to unblock Hormuz. I do know we have not built a refinery since 1977.
+dek: Ours is that we have not built a refinery since 1977.
 excerpt: Everyone is pointing at the strait. The strait is real. It is also four thousand miles away and not ours to open. The part that is ours is a building, and we have not built one in forty-nine years.
 section: essay
 hero: /fuhmariam-chemistry-7925484.jpg
@@ -14,9 +14,9 @@ I do not know how to reopen the Strait of Hormuz. Neither does anyone shouting a
 
 The strait is real. Ships are not moving through it. The Red Sea, which is the way around, took missiles over the weekend along with a fuel tank at Riyadh airport. All of that is true, and all of it is four thousand miles away, and none of it is ours to fix this month.
 
-Readers of this desk know where I am going, because I have been here before. A swarm of drones is a spell until you ask where the warehouse is. A blockade is a headline until you ask what it actually stops, and then what we have that it does not touch.
+Readers of this desk have heard the method. A swarm of drones is a spell until you ask where the warehouse is. A blockade is a headline until you ask what it actually stops, and then what we have that it does not touch.
 
-The strait is not the shed. The shed is a building in Louisiana, or Illinois, or nowhere, and we have not put one up since 1977.
+The strait is their problem. Ours is a building — in Louisiana, or Illinois, or nowhere — and we have not put one up since 1977.
 
 ## One plant, four states, five days
 
