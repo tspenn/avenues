@@ -1,0 +1,29 @@
+---
+description: Title case for every post title and section header. Articles a/an/the stay lowercase unless they start the line.
+globs: content/**/*.md
+alwaysApply: true
+---
+
+# Titles And Section Headers
+
+Every post `title`, page `title`, and markdown section header (`##`, `###`) is title case. This is grammar, not shouting. Do not write SCREAMING CAPS.
+
+Capitalize every word except the grammatical articles **a**, **an**, and **the**, unless that article is the first word of the title, the first word after a period, or the first word of a new clause that starts a line.
+
+Prepositions, conjunctions, and verbs are capitalized: Of, For, To, On, With, And, But, Is, Does.
+
+Deks, excerpts, and body sentences stay ordinary sentence case. This rule is titles and section heads only.
+
+```markdown
+<!-- BAD -->
+title: Good luck making it home
+## What notice is for
+## Next door, a ballot
+
+<!-- GOOD -->
+title: Good Luck Making It Home
+## What Notice Is For
+## Next Door, a Ballot
+```
+
+`a` in "a Ballot" stays lowercase. `The` in "The Bill That Follows" is capitalized because it starts the line.
