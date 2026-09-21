@@ -38,6 +38,11 @@ const nextConfig: NextConfig = {
         permanent: true,
       },
       {
+        source: "/posts/they-vote-with-the-truck",
+        destination: "/writers/whit-boone/they-vote-with-the-truck",
+        permanent: true,
+      },
+      {
         source: "/posts/now-what",
         destination: "/posts/you-hedged-now-what",
         permanent: true,
