@@ -5,7 +5,7 @@ import { attributionFor, isDeskSection } from "./authors";
 import { bodyWithoutLeadingDek, type Post } from "./posts";
 
 export const SITE_NAME = "Avenues";
-export const SITE_URL = "https://avenues.skylandpublishing.com";
+export const SITE_URL = "https://avenuesfiles.com";
 
 const DEFAULT_SHARE_IMAGE = "/avenues-og.jpg";
 const SUNDAY_FILE_SHARE_IMAGE = "/sunday-file-og.jpg";

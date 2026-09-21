@@ -12,6 +12,12 @@ const nextConfig: NextConfig = {
   async redirects() {
     return [
       {
+        source: "/:path*",
+        has: [{ type: "host", value: "avenues.skylandpublishing.com" }],
+        destination: "https://avenuesfiles.com/:path*",
+        permanent: true,
+      },
+      {
         source: "/boone",
         destination: "/writers/whit-boone",
         permanent: true,
